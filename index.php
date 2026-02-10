@@ -1111,7 +1111,7 @@
     </section>
 
     <!-- Our Locations -->
-    <section class="py-16 bg-dark">
+    <section class="py-2.5 bg-dark">
         <div class="container mx-auto px-4 lg:px-8">
             <div class="mb-8">
                 <!-- Dropdown Toggle Button - Left Aligned with White Background -->
