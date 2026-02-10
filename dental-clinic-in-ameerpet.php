@@ -1166,7 +1166,7 @@
                     </div>
                 </div>
                 <div class="aspect-video rounded-2xl overflow-hidden">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60893.93!2d78.4120!3d17.4123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sAmeerpet%2C%20Hyderabad!5e0!3m2!1sen!2sin!4v1762326688690!5m2!1sen!2sin" class="w-full h-full" allowfullscreen loading="lazy"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.6!2d78.4867!3d17.4239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sGnathos%20Dental%20Care!5e0!3m2!1sen!2sin!4v1707567890123!5m2!1sen!2sin" class="w-full h-full" allowfullscreen loading="lazy"></iframe>
                 </div>
             </div>
         </div>
