@@ -54,8 +54,7 @@
                             <span class="text-gnathos">Madhapur</span>
                         </h1>
                         <p class="text-base sm:text-lg lg:text-xl text-gray-700 leading-relaxed font-medium">
-                            Experience the future of dentistry. Painless, precise, and premium care tailored exclusively
-                            for you in Hyderabad.
+                            Experience the future of dentistry at Gnathos Dental, the preferred choice for comprehensive oral care. We provide painless, precise, and premium dental services tailored exclusively for your unique needs. As the most trusted dental clinic in Madhapur, our team of expert dentists utilizes state-of-the-art technology to deliver world-class treatments, ensuring a comfortable, safe, and transformative smile makeover experience.
                         </p>
                     </div>
 
