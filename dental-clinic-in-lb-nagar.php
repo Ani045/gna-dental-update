@@ -19,7 +19,7 @@
 </head>
 
 <body class="bg-white overflow-x-hidden">
-    <?php \$path = './'; include_once './includes/header.php'; ?>
+    <?php $path = './'; include_once './includes/header.php'; ?>
 
     <!-- Hero Section - Matching Homepage -->
     <section class="relative min-h-[450px] sm:min-h-[550px] lg:min-h-[650px] flex items-center justify-center overflow-hidden pt-8 sm:pt-12 lg:pt-16 pb-0 bg-white">
