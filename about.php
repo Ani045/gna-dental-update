@@ -158,7 +158,7 @@
                     Our Core Values
                 </h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">
-                    The principles that guide every aspect of our dental practice and patient care
+                    The principles that guide every aspect of our dental practice and patient care 
                 </p>
             </div>
 
