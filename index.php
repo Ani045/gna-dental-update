@@ -29,7 +29,8 @@
 
 <body class="bg-white overflow-x-hidden">
 
-    <?php $path = './'; include_once './includes/header.php'; ?>
+    <?php $path = './';
+    include_once './includes/header.php'; ?>
 
     <!-- Hero Section - Clean White Design (Matching React) -->
     <section
@@ -667,7 +668,8 @@
                     class="inline-block bg-gnathos/20 text-gnathos hover:bg-gnathos/30 mb-4 border border-gnathos/30 px-4 py-1 rounded-full text-sm font-semibold">Full-Service
                     Care</span>
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6">Complete Dental Care
-                    <span class="text-gnathos">Solutions</span></h2>
+                    <span class="text-gnathos">Solutions</span>
+                </h2>
                 <p class="text-gray-600 text-base sm:text-lg">From routine check-ups to complex procedures, we provide
                     comprehensive care for the whole family.</p>
             </div>
@@ -1104,6 +1106,329 @@
                         <p class="pb-6 text-gray-600">You can book online or call us at +91 9955 708 885.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Locations -->
+    <section class="py-16 bg-gradient-to-br from-gray-50 to-blue-50">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <span
+                    class="inline-block bg-gnathos/20 text-gnathos px-4 py-1 rounded-full text-sm font-semibold mb-4">📍
+                    Our Locations</span>
+                <h2 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 mb-4">Visit Us at <span
+                        class="text-gnathos">Your Nearest Location</span></h2>
+                <p class="text-gray-600 text-lg">We have multiple clinics across Hyderabad to serve you better. Find the
+                    location most convenient for you.</p>
+            </div>
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-6xl mx-auto">
+                <a href="locations/banjara-hills.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Banjara Hills
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/jubilee-hills.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Jubilee Hills
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/gachibowli.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Gachibowli
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/hitech-city.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">HITEC City
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/madhapur.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Madhapur</h3>
+                    </div>
+                </a>
+                <a href="locations/kondapur.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Kondapur</h3>
+                    </div>
+                </a>
+                <a href="locations/manikonda.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Manikonda
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/begumpet.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Begumpet</h3>
+                    </div>
+                </a>
+                <a href="locations/ameerpet.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Ameerpet</h3>
+                    </div>
+                </a>
+                <a href="locations/punjagutta.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Punjagutta
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/himayatnagar.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Himayatnagar
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/abids.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Abids</h3>
+                    </div>
+                </a>
+                <a href="locations/nallakunta.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Nallakunta
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/miyapur.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Miyapur</h3>
+                    </div>
+                </a>
+                <a href="locations/kukatpally.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Kukatpally
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/nizampet.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Nizampet</h3>
+                    </div>
+                </a>
+                <a href="locations/bachupally.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Bachupally
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/chandanagar.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Chandanagar
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/kompally.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Kompally</h3>
+                    </div>
+                </a>
+                <a href="locations/tolichowki.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Tolichowki
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/mehdipatnam.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Mehdipatnam
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/attapur.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Attapur</h3>
+                    </div>
+                </a>
+                <a href="locations/shamshabad.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Shamshabad
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/uppal.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Uppal</h3>
+                    </div>
+                </a>
+                <a href="locations/lb-nagar.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">LB Nagar</h3>
+                    </div>
+                </a>
+                <a href="locations/dilsukhnagar.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Dilsukhnagar
+                        </h3>
+                    </div>
+                </a>
+                <a href="locations/ecil.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">ECIL</h3>
+                    </div>
+                </a>
+                <a href="locations/alwal.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Alwal</h3>
+                    </div>
+                </a>
+                <a href="locations/secunderabad.php"
+                    class="bg-white rounded-xl p-5 shadow-sm hover:shadow-lg transition-all border border-gray-100 hover:border-gnathos/30 group">
+                    <div class="flex items-center space-x-3">
+                        <div
+                            class="w-10 h-10 bg-gnathos/10 rounded-full flex items-center justify-center group-hover:bg-gnathos group-hover:text-white transition-colors">
+                            <span class="text-gnathos group-hover:text-white">📍</span>
+                        </div>
+                        <h3 class="font-semibold text-gray-800 group-hover:text-gnathos transition-colors">Secunderabad
+                        </h3>
+                    </div>
+                </a>
             </div>
         </div>
     </section>
