@@ -1113,218 +1113,258 @@
     <!-- Our Locations -->
     <section class="py-16 bg-dark">
         <div class="container mx-auto px-4 lg:px-8">
-            <div class="text-center max-w-3xl mx-auto mb-12">
+            <div class="text-center max-w-3xl mx-auto mb-8">
                 <h2 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-white mb-4">Best Dental Clinic in <span
                         class="text-gnathos">Hyderabad</span></h2>
-                <p class="text-gray-300 text-lg">We have multiple clinics across Hyderabad to serve you better.</p>
+                <p class="text-gray-300 text-lg mb-6">We have multiple clinics across Hyderabad to serve you better.</p>
+
+                <!-- Dropdown Toggle Button -->
+                <button onclick="toggleLocations()"
+                    class="inline-flex items-center gap-2 bg-gnathos hover:bg-gnathos/90 text-white px-6 py-3 rounded-full font-semibold transition-all shadow-lg hover:shadow-xl">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                    <span id="locationBtnText">View All Our Locations</span>
+                    <svg id="locationArrow" class="w-5 h-5 transition-transform" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </button>
             </div>
-            <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-8 gap-y-4 max-w-6xl mx-auto">
-                <a href="dental-clinic-in-banjara-hills.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Banjara Hills</span>
-                </a>
-                <a href="dental-clinic-in-jubilee-hills.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Jubilee Hills</span>
-                </a>
-                <a href="dental-clinic-in-gachibowli.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Gachibowli</span>
-                </a>
-                <a href="dental-clinic-in-hitech-city.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in HITEC City</span>
-                </a>
-                <a href="dental-clinic-in-madhapur.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Madhapur</span>
-                </a>
-                <a href="dental-clinic-in-kondapur.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Kondapur</span>
-                </a>
-                <a href="dental-clinic-in-manikonda.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Manikonda</span>
-                </a>
-                <a href="dental-clinic-in-begumpet.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Begumpet</span>
-                </a>
-                <a href="dental-clinic-in-ameerpet.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Ameerpet</span>
-                </a>
-                <a href="dental-clinic-in-punjagutta.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Punjagutta</span>
-                </a>
-                <a href="dental-clinic-in-himayatnagar.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Himayatnagar</span>
-                </a>
-                <a href="dental-clinic-in-abids.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Abids</span>
-                </a>
-                <a href="dental-clinic-in-nallakunta.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Nallakunta</span>
-                </a>
-                <a href="dental-clinic-in-miyapur.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Miyapur</span>
-                </a>
-                <a href="dental-clinic-in-kukatpally.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Kukatpally</span>
-                </a>
-                <a href="dental-clinic-in-nizampet.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Nizampet</span>
-                </a>
-                <a href="dental-clinic-in-bachupally.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Bachupally</span>
-                </a>
-                <a href="dental-clinic-in-chandanagar.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Chandanagar</span>
-                </a>
-                <a href="dental-clinic-in-kompally.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Kompally</span>
-                </a>
-                <a href="dental-clinic-in-tolichowki.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Tolichowki</span>
-                </a>
-                <a href="dental-clinic-in-mehdipatnam.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Mehdipatnam</span>
-                </a>
-                <a href="dental-clinic-in-attapur.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Attapur</span>
-                </a>
-                <a href="dental-clinic-in-shamshabad.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Shamshabad</span>
-                </a>
-                <a href="dental-clinic-in-uppal.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Uppal</span>
-                </a>
-                <a href="dental-clinic-in-lb-nagar.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in LB Nagar</span>
-                </a>
-                <a href="dental-clinic-in-dilsukhnagar.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Dilsukhnagar</span>
-                </a>
-                <a href="dental-clinic-in-ecil.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in ECIL</span>
-                </a>
-                <a href="dental-clinic-in-alwal.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Alwal</span>
-                </a>
-                <a href="dental-clinic-in-secunderabad.php"
-                    class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
-                    <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <circle cx="10" cy="10" r="3" />
-                    </svg>
-                    <span class="text-sm">Best Dental Clinic in Secunderabad</span>
-                </a>
+
+            <!-- Collapsible Location Grid -->
+            <div id="locationGrid" class="hidden max-w-6xl mx-auto overflow-hidden transition-all duration-500">
+                <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-8 gap-y-4 pt-8">
+                    <a href="dental-clinic-in-banjara-hills.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Banjara Hills</span>
+                    </a>
+                    <a href="dental-clinic-in-jubilee-hills.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Jubilee Hills</span>
+                    </a>
+                    <a href="dental-clinic-in-gachibowli.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Gachibowli</span>
+                    </a>
+                    <a href="dental-clinic-in-hitech-city.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in HITEC City</span>
+                    </a>
+                    <a href="dental-clinic-in-madhapur.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Madhapur</span>
+                    </a>
+                    <a href="dental-clinic-in-kondapur.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Kondapur</span>
+                    </a>
+                    <a href="dental-clinic-in-manikonda.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Manikonda</span>
+                    </a>
+                    <a href="dental-clinic-in-begumpet.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Begumpet</span>
+                    </a>
+                    <a href="dental-clinic-in-ameerpet.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Ameerpet</span>
+                    </a>
+                    <a href="dental-clinic-in-punjagutta.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Punjagutta</span>
+                    </a>
+                    <a href="dental-clinic-in-himayatnagar.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Himayatnagar</span>
+                    </a>
+                    <a href="dental-clinic-in-abids.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Abids</span>
+                    </a>
+                    <a href="dental-clinic-in-nallakunta.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Nallakunta</span>
+                    </a>
+                    <a href="dental-clinic-in-miyapur.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Miyapur</span>
+                    </a>
+                    <a href="dental-clinic-in-kukatpally.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Kukatpally</span>
+                    </a>
+                    <a href="dental-clinic-in-nizampet.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Nizampet</span>
+                    </a>
+                    <a href="dental-clinic-in-bachupally.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Bachupally</span>
+                    </a>
+                    <a href="dental-clinic-in-chandanagar.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Chandanagar</span>
+                    </a>
+                    <a href="dental-clinic-in-kompally.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Kompally</span>
+                    </a>
+                    <a href="dental-clinic-in-tolichowki.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Tolichowki</span>
+                    </a>
+                    <a href="dental-clinic-in-mehdipatnam.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Mehdipatnam</span>
+                    </a>
+                    <a href="dental-clinic-in-attapur.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Attapur</span>
+                    </a>
+                    <a href="dental-clinic-in-shamshabad.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Shamshabad</span>
+                    </a>
+                    <a href="dental-clinic-in-uppal.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Uppal</span>
+                    </a>
+                    <a href="dental-clinic-in-lb-nagar.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in LB Nagar</span>
+                    </a>
+                    <a href="dental-clinic-in-dilsukhnagar.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Dilsukhnagar</span>
+                    </a>
+                    <a href="dental-clinic-in-ecil.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in ECIL</span>
+                    </a>
+                    <a href="dental-clinic-in-alwal.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Alwal</span>
+                    </a>
+                    <a href="dental-clinic-in-secunderabad.php"
+                        class="flex items-center space-x-2 text-gray-300 hover:text-gnathos transition-colors group">
+                        <svg class="w-4 h-4 text-gnathos flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <circle cx="10" cy="10" r="3" />
+                        </svg>
+                        <span class="text-sm">Best Dental Clinic in Secunderabad</span>
+                    </a>
+                </div>
             </div>
         </div>
+
+        <!-- JavaScript for Toggle -->
+        <script>
+            function toggleLocations() {
+                const grid = document.getElementById('locationGrid');
+                const arrow = document.getElementById('locationArrow');
+                const btnText = document.getElementById('locationBtnText');
+
+                if (grid.classList.contains('hidden')) {
+                    grid.classList.remove('hidden');
+                    arrow.style.transform = 'rotate(180deg)';
+                    btnText.textContent = 'Hide Locations';
+                } else {
+                    grid.classList.add('hidden');
+                    arrow.style.transform = 'rotate(0deg)';
+                    btnText.textContent = 'View All Our Locations';
+                }
+            }
+        </script>
     </section>
+
 
     <?php include_once './includes/footer.php'; ?>
 
