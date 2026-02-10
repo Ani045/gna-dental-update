@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Gnathos Dental - Expert Dental Care in Hyderabad</title>
+    <title>About Us - Expert Dental Care in Hyderabad</title>
     <meta name="description"
         content="Learn about Gnathos Dental's mission, values, and commitment to providing exceptional dental care in Hyderabad. Meet our expert team and discover our story.">
     <meta name="keywords" content="about gnathos dental, dental clinic hyderabad, expert dentists, dental care mission">
