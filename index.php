@@ -1113,15 +1113,11 @@
     <!-- Our Locations -->
     <section class="py-16 bg-dark">
         <div class="container mx-auto px-4 lg:px-8">
-            <div class="text-center max-w-3xl mx-auto mb-8">
-                <h2 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-white mb-4">Best Dental Clinic in <span
-                        class="text-gnathos">Hyderabad</span></h2>
-                <p class="text-gray-300 text-lg mb-6">We have multiple clinics across Hyderabad to serve you better.</p>
-
-                <!-- Dropdown Toggle Button -->
+            <div class="mb-8">
+                <!-- Dropdown Toggle Button - Left Aligned with White Background -->
                 <button onclick="toggleLocations()"
-                    class="inline-flex items-center gap-2 bg-gnathos hover:bg-gnathos/90 text-white px-6 py-3 rounded-full font-semibold transition-all shadow-lg hover:shadow-xl">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    class="inline-flex items-center gap-2 bg-white hover:bg-gray-100 text-dark px-6 py-3 rounded-full font-semibold transition-all shadow-lg hover:shadow-xl">
+                    <svg class="w-5 h-5 text-gnathos" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
