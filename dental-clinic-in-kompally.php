@@ -49,7 +49,7 @@
                             Ranked #1 Dental Clinic
                         </span>
                         <h1
-                            class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-black leading-[1.1] tracking-tight mb-4 sm:mb-6">
+                            class="text-[2rem] font-bold text-black leading-[1.1] tracking-tight mb-4 sm:mb-6">
                             Best Dental Clinic in <br>
                             <span class="text-gnathos">Kompally</span>
                         </h1>
