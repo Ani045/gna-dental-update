@@ -50,8 +50,8 @@
                         </span>
                         <h1
                             class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-black leading-[1.1] tracking-tight mb-4 sm:mb-6">
-                            Re-Imagine Your <br>
-                            <span class="text-gnathos">Perfect Smile</span>
+                            Best Dental Clinic in <br>
+                            <span class="text-gnathos">Banjara Hills</span>
                         </h1>
                         <p class="text-base sm:text-lg lg:text-xl text-gray-700 leading-relaxed font-medium">
                             Experience the future of dentistry. Painless, precise, and premium care tailored exclusively
