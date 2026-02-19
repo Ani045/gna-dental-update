@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="X_Ik37TeRJlzYA-PCAKDDn57fgDJ-p6PZorhb3Hh8Qw" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gnathos Dental | Premium Dental Care in Hyderabad</title>
     <meta name="description" content="Experience world-class painless dentistry in Hyderabad.">

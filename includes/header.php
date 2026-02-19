@@ -164,4 +164,3 @@ function isActive($page_name, $current_page)
         </div>
     </div>
 </header>
-<meta name="google-site-verification" content="X_Ik37TeRJlzYA-PCAKDDn57fgDJ-p6PZorhb3Hh8Qw" />
