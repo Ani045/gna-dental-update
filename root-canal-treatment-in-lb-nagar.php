@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Root Canal Treatment in Hyderabad | Gnathos Dental - Save Your Tooth</title>
+    <title>Best Root Canal Treatment in LB Nagar, Hyderabad | Gnathos Dental - Save Your Tooth</title>
     <meta name="description"
-        content="Expert root canal treatment in Hyderabad at Gnathos Dental. Painless procedures, experienced endodontists, and advanced technology to save your natural teeth.">
+        content="Expert root canal treatment in LB Nagar, Hyderabad at Gnathos Dental. Painless procedures, experienced endodontists, and advanced technology to save your natural teeth.">
     <meta name="keywords"
-        content="root canal treatment Hyderabad, endodontist, painless root canal, tooth pain relief, dental infection treatment">
+        content="root canal treatment LB Nagar, root canal treatment LB Nagar, Hyderabad, endodontist, painless root canal, tooth pain relief, dental infection treatment">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
-    <link rel="canonical" href="https://gnathosdentalcare.com/root-canal">
+    <link rel="canonical" href="https://gnathosdentalcare.com/root-canal-treatment-in-lb-nagar">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -29,6 +29,26 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
+    <!-- Schema & Geo Tags -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "name": "Gnathos Dental Clinic - Root Canal Treatment in LB Nagar, Hyderabad",
+      "url": "https://www.gnathosdentalcare.com/root-canal-treatment-in-lb-nagar.php",
+      "telephone": "+919955708885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "LB Nagar",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      },
+      "medicalSpecialty": "Endodontics",
+      "priceRange": "$$"
+    }
+    </script>
+    <meta name="geo.region" content="IN-TG" />
+    <meta name="geo.placename" content="LB Nagar, Hyderabad" />
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -51,13 +71,13 @@
                     <div class="space-y-4">
                         <span
                             class="inline-block bg-gnathos/10 text-gnathos px-4 py-1.5 rounded-full text-sm font-semibold">
-                            🛠️ Best Root Canal Treatment in Hyderabad
+                            🛠️ Best Root Canal Treatment in LB Nagar
                         </span>
                         <h1 class="text-4xl lg:text-4xl font-bold text-gray-800 leading-tight">
                             Pain-Free
                             <span class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent"> Root
                                 Canal </span>
-                            Treatment in Hyderabad
+                            Treatment in LB Nagar
                         </h1>
                         <p class="text-lg text-gray-600 leading-relaxed">
                             At Gnathos Dental Clinic, we specialise in gentle and advanced root canal procedures that
@@ -537,7 +557,7 @@
                 <div class="faq-item border-b">
                     <button class="faq-question w-full py-6 flex justify-between items-center text-left"
                         onclick="this.parentElement.classList.toggle('active')">
-                        <h3 class="font-semibold text-lg">How much does root canal treatment cost in Hyderabad?</h3>
+                        <h3 class="font-semibold text-lg">How much does root canal treatment cost in LB Nagar?</h3>
                         <span class="faq-icon text-gnathos transition-transform">▼</span>
                     </button>
                     <div class="faq-answer">
@@ -583,45 +603,6 @@
                 <a href="tel:+919955708885"
                     class="border-2 border-white/20 bg-white/5 hover:bg-white/10 text-white rounded-2xl h-16 text-lg font-bold flex items-center justify-center gap-3 transition px-10">📞
                     Call: +91 9955 708 885</a>
-            </div>
-        </div>
-    </section>
-
-    
-    <!-- Location Links Section -->
-    <section class="py-12 bg-gray-50 border-t border-gray-200">
-        <div class="container mx-auto px-4 lg:px-8">
-            <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Root Canal Treatment Across Hyderabad</h2>
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
-                <a href="root-canal-treatment-in-abids.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Abids</a>
-                <a href="root-canal-treatment-in-alwal.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Alwal</a>
-                <a href="root-canal-treatment-in-ameerpet.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Ameerpet</a>
-                <a href="root-canal-treatment-in-attapur.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Attapur</a>
-                <a href="root-canal-treatment-in-bachupally.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Bachupally</a>
-                <a href="root-canal-treatment-in-banjara-hills.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Banjara Hills</a>
-                <a href="root-canal-treatment-in-begumpet.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Begumpet</a>
-                <a href="root-canal-treatment-in-chandanagar.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Chandanagar</a>
-                <a href="root-canal-treatment-in-dilsukhnagar.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Dilsukhnagar</a>
-                <a href="root-canal-treatment-in-ecil.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>ECIL</a>
-                <a href="root-canal-treatment-in-gachibowli.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Gachibowli</a>
-                <a href="root-canal-treatment-in-himayatnagar.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Himayatnagar</a>
-                <a href="root-canal-treatment-in-hitech-city.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Hitech City</a>
-                <a href="root-canal-treatment-in-jubilee-hills.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Jubilee Hills</a>
-                <a href="root-canal-treatment-in-kompally.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Kompally</a>
-                <a href="root-canal-treatment-in-kondapur.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Kondapur</a>
-                <a href="root-canal-treatment-in-kukatpally.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Kukatpally</a>
-                <a href="root-canal-treatment-in-lb-nagar.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>LB Nagar</a>
-                <a href="root-canal-treatment-in-madhapur.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Madhapur</a>
-                <a href="root-canal-treatment-in-manikonda.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Manikonda</a>
-                <a href="root-canal-treatment-in-mehdipatnam.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Mehdipatnam</a>
-                <a href="root-canal-treatment-in-miyapur.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Miyapur</a>
-                <a href="root-canal-treatment-in-nallakunta.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Nallakunta</a>
-                <a href="root-canal-treatment-in-nizampet.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Nizampet</a>
-                <a href="root-canal-treatment-in-punjagutta.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Punjagutta</a>
-                <a href="root-canal-treatment-in-secunderabad.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Secunderabad</a>
-                <a href="root-canal-treatment-in-shamshabad.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Shamshabad</a>
-                <a href="root-canal-treatment-in-tolichowki.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Tolichowki</a>
-                <a href="root-canal-treatment-in-uppal.php" class="text-gray-600 hover:text-gnathos text-sm font-medium flex items-center transition-colors"><svg class="w-4 h-4 mr-2 text-gnathos" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path></svg>Uppal</a>
             </div>
         </div>
     </section>
