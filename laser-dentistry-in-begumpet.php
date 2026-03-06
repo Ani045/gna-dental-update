@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in Begumpet, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-begumpet.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-begumpet.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

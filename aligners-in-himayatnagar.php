@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Himayatnagar, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-himayatnagar.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-himayatnagar.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

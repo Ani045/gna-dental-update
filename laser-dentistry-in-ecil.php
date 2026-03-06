@@ -27,7 +27,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in ECIL, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-ecil.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-ecil.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

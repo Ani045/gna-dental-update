@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Oral Surgeries in Gachibowli, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/oral-surgeries-in-gachibowli.php",
+      "url": "https://gnathosdentalcare.com/oral-surgeries-in-gachibowli.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

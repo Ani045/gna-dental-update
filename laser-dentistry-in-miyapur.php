@@ -26,7 +26,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in Miyapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-miyapur.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-miyapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

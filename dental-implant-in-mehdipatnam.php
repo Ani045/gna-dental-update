@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Mehdipatnam, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-mehdipatnam.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-mehdipatnam.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

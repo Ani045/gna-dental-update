@@ -35,7 +35,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Root Canal Treatment in Miyapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/root-canal-treatment-in-miyapur.php",
+      "url": "https://gnathosdentalcare.com/root-canal-treatment-in-miyapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

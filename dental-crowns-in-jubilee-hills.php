@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Crowns And Bridges in Jubilee Hills, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-crowns-in-jubilee-hills.php",
+      "url": "https://gnathosdentalcare.com/dental-crowns-in-jubilee-hills.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

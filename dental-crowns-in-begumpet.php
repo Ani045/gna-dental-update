@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Crowns And Bridges in Begumpet, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-crowns-in-begumpet.php",
+      "url": "https://gnathosdentalcare.com/dental-crowns-in-begumpet.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

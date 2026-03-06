@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in Shamshabad, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-shamshabad.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-shamshabad.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

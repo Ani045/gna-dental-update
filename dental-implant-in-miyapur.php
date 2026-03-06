@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Miyapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-miyapur.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-miyapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

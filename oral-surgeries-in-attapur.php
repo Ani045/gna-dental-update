@@ -26,7 +26,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Oral Surgeries in Attapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/oral-surgeries-in-attapur.php",
+      "url": "https://gnathosdentalcare.com/oral-surgeries-in-attapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Dilsukhnagar, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-dilsukhnagar.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-dilsukhnagar.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

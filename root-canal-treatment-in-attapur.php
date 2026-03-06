@@ -35,7 +35,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Root Canal Treatment in Attapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/root-canal-treatment-in-attapur.php",
+      "url": "https://gnathosdentalcare.com/root-canal-treatment-in-attapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

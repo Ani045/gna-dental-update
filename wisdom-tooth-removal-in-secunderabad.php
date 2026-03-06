@@ -27,7 +27,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Wisdom Tooth Removal in Secunderabad, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/wisdom-tooth-removal-in-secunderabad.php",
+      "url": "https://gnathosdentalcare.com/wisdom-tooth-removal-in-secunderabad.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

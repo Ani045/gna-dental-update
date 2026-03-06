@@ -27,7 +27,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Oral Surgeries in ECIL, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/oral-surgeries-in-ecil.php",
+      "url": "https://gnathosdentalcare.com/oral-surgeries-in-ecil.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

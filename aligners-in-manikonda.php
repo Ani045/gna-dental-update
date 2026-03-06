@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Manikonda, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-manikonda.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-manikonda.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

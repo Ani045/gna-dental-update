@@ -27,7 +27,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Wisdom Tooth Removal in ECIL, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/wisdom-tooth-removal-in-ecil.php",
+      "url": "https://gnathosdentalcare.com/wisdom-tooth-removal-in-ecil.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

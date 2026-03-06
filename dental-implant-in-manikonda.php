@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Manikonda, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-manikonda.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-manikonda.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

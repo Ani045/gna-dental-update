@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Himayatnagar, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-himayatnagar.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-himayatnagar.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

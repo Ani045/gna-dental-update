@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Hitech City, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-hitech-city.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-hitech-city.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

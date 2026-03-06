@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Begumpet, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-begumpet.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-begumpet.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

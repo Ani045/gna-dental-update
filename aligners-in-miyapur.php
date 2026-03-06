@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Miyapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-miyapur.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-miyapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

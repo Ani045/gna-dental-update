@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in Bachupally, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-bachupally.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-bachupally.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

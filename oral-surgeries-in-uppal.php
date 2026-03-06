@@ -27,7 +27,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Oral Surgeries in Uppal, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/oral-surgeries-in-uppal.php",
+      "url": "https://gnathosdentalcare.com/oral-surgeries-in-uppal.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Implants in Madhapur, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-implant-in-madhapur.php",
+      "url": "https://gnathosdentalcare.com/dental-implant-in-madhapur.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

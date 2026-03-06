@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Punjagutta, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-punjagutta.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-punjagutta.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

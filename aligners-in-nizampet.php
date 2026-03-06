@@ -33,7 +33,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Nizampet, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-nizampet.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-nizampet.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

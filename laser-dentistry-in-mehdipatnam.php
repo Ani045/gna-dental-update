@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in Mehdipatnam, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/laser-dentistry-in-mehdipatnam.php",
+      "url": "https://gnathosdentalcare.com/laser-dentistry-in-mehdipatnam.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

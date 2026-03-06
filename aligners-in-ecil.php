@@ -34,7 +34,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in ECIL, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-ecil.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-ecil.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

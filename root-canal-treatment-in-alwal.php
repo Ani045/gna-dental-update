@@ -35,7 +35,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Root Canal Treatment in Alwal, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/root-canal-treatment-in-alwal.php",
+      "url": "https://gnathosdentalcare.com/root-canal-treatment-in-alwal.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

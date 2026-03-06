@@ -24,7 +24,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - General Dentistry in Nizampet, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/general-dentistry-in-nizampet.php",
+      "url": "https://gnathosdentalcare.com/general-dentistry-in-nizampet.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

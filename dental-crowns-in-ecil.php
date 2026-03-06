@@ -34,7 +34,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Dental Crowns And Bridges in ECIL, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/dental-crowns-in-ecil.php",
+      "url": "https://gnathosdentalcare.com/dental-crowns-in-ecil.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",

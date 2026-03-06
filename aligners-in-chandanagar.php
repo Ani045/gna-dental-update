@@ -32,7 +32,7 @@
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Chandanagar, Hyderabad",
-      "url": "https://www.gnathosdentalcare.com/aligners-in-chandanagar.php",
+      "url": "https://gnathosdentalcare.com/aligners-in-chandanagar.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",
