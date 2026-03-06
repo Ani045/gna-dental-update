@@ -4,9 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Wisdom Tooth Removal in Hyderabad | Gnathos Dental - Safe Extraction</title>
+    <title>Best Wisdom Tooth Removal in Ameerpet, Hyderabad | Gnathos Dental - Safe Extraction</title>
     <meta name="description"
-        content="Expert wisdom tooth removal in Hyderabad at Gnathos Dental. Painless extractions, experienced surgeons, and comprehensive post-operative care.">
+        content="Expert wisdom tooth removal in Ameerpet, Hyderabad at Gnathos Dental. Painless extractions, experienced surgeons, and comprehensive post-operative care.">
+    <meta name="keywords" content="wisdom tooth removal Ameerpet, wisdom tooth extraction Ameerpet, Hyderabad, painless wisdom tooth removal, impacted wisdom tooth surgery Ameerpet">
+
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>tailwind.config = { theme: { extend: { colors: { gnathos: '#00bbb0', dark: '#001817' } } } }</script>
@@ -18,6 +20,27 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
+    <link rel="canonical" href="https://gnathosdentalcare.com/wisdom-tooth-removal-in-ameerpet">
+    <!-- Schema & Geo Tags -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "name": "Gnathos Dental Clinic - Wisdom Tooth Removal in Ameerpet, Hyderabad",
+      "url": "https://www.gnathosdentalcare.com/wisdom-tooth-removal-in-ameerpet.php",
+      "telephone": "+919955708885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ameerpet",
+        "addressRegion": "Telangana",
+        "addressCountry": "IN"
+      },
+      "medicalSpecialty": "Oral Surgery",
+      "priceRange": "$$"
+    }
+    </script>
+    <meta name="geo.region" content="IN-TG" />
+    <meta name="geo.placename" content="Ameerpet, Hyderabad" />
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -36,10 +59,10 @@
                     <div class="space-y-4">
                         <span
                             class="inline-block bg-gnathos/10 text-gnathos px-4 py-1.5 rounded-full text-sm font-semibold">🦷
-                            Best Wisdom Tooth Removal in Hyderabad</span>
+                            Best Wisdom Tooth Removal in Ameerpet</span>
                         <h1 class="text-4xl lg:text-4xl font-bold text-gray-800 leading-tight">Safe & Painless<span
                                 class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent"> Wisdom
-                                Tooth </span>Removal in Hyderabad</h1>
+                                Tooth </span>Removal in Ameerpet</h1>
                         <p class="text-lg text-gray-600 leading-relaxed">Get expert care for impacted or painful wisdom
                             teeth with Gnathos Dental Clinic's advanced, minimally invasive extraction procedures. Our
                             experienced oral surgeons ensure a smooth, comfortable, and quick recovery experience using
