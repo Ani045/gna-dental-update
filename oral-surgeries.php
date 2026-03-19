@@ -4,15 +4,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Expert Oral Surgeries in Hyderabad | Gnathos Dental</title>
+    <title>Best Oral Surgery in Hyderabad | Gnathos Dental – Safe &amp; Comfortable</title>
     <meta name="description"
-        content="Professional oral surgery services including wisdom tooth extraction, bone grafting, and corrective jaw surgery.">
+        content="Expert oral surgery in Hyderabad at Gnathos Dental. Wisdom tooth extraction, bone grafting, jaw surgery – safe, comfortable &amp; affordable. Book: +91 9955 708 885">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
+    <link rel="canonical" href="https://www.gnathosdental.in/oral-surgeries" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Best Oral Surgery in Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Safe oral surgery in Hyderabad: extractions, bone grafting, jaw surgery. Expert oral surgeons. Book at Gnathos Dental." />
+    <meta property="og:url" content="https://www.gnathosdental.in/oral-surgeries" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script>tailwind.config = { theme: { extend: { colors: { gnathos: '#00bbb0', dark: '#001817' } } } }</script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Oral Surgeries","item":"https://www.gnathosdental.in/oral-surgeries"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Oral Surgery in Hyderabad",
+        "description": "Expert oral surgeries including wisdom tooth extraction, cyst removal, bone grafting, and corrective jaw surgery at Gnathos Dental, Hyderabad.",
+        "procedureType": "https://schema.org/SurgicalProcedure",
+        "relevantSpecialty": "Dentistry"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What types of oral surgeries do you perform?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We perform various oral surgeries including wisdom tooth extraction, tooth extractions, bone grafting, sinus lifts, corrective jaw surgery, treatment of oral pathology, and pre-prosthetic surgery to prepare for dental implants."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is oral surgery painful?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Modern oral surgery techniques and anesthesia ensure minimal discomfort during procedures. We use local anesthesia, sedation options, and provide comprehensive pain management instructions for post-operative care to ensure your comfort throughout the process."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long is the recovery time after oral surgery?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Recovery time varies depending on the type and complexity of the surgery. Simple extractions may require 3-7 days, while complex procedures like jaw surgery may take several weeks. We provide detailed post-operative care instructions to promote optimal healing."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What should I expect during oral surgery?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Before surgery, we'll review your medical history and explain the procedure. During surgery, you'll receive appropriate anesthesia for comfort. Post-surgery, we'll provide detailed care instructions and schedule follow-up appointments to monitor healing."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Are there any risks associated with oral surgery?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "While oral surgery is generally safe, like any surgical procedure, there are minimal risks such as bleeding, infection, or temporary numbness. We discuss all potential risks and benefits with you beforehand and take every precaution to minimize complications."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I prepare for oral surgery?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Preparation includes following pre-operative instructions, arranging transportation, wearing comfortable clothing, and taking prescribed medications as directed. We'll provide you with a comprehensive pre-surgery checklist during your consultation."
+                }
+            }
+        ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -343,6 +422,19 @@
         </div>
     </section>
 
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Comprehensive Oral Surgery Services <span class="text-gnathos">in Hyderabad</span></h2>
+                <div class="space-y-6 text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>At Gnathos Dental, we offer a comprehensive range of <strong>oral surgery in Hyderabad</strong> services designed to address complex dental conditions with precision and care. Our surgical team, led by Dr. Navatha Mortha (MDS Oral Surgeon), specializes in wisdom tooth extraction, cyst and tumour removal, bone grafting for implant preparation, corrective jaw surgery, and surgical management of impacted teeth. Each procedure is performed in our hospital-based facility within Care Hospital, Hitech City, ensuring access to emergency support and the highest standards of sterilization.</p>
+                    <p>What makes <strong>oral surgery in Hyderabad</strong> at Gnathos Dental different is our commitment to minimally invasive techniques. Using advanced 3D imaging and computer-guided surgical protocols, our surgeons achieve greater accuracy while minimizing tissue trauma, reducing recovery time, and ensuring patient comfort throughout. Most patients experience minimal post-operative discomfort and can return to normal activities within a few days. We provide detailed aftercare instructions and follow-up appointments to monitor healing and ensure optimal outcomes.</p>
+                    <p>Whether you need a simple extraction or a complex jaw reconstruction, our team delivers safe, effective <strong>oral surgery in Hyderabad</strong> backed by 15+ years of clinical expertise, a 99% success rate, and lifetime warranties on qualifying procedures. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your consultation</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Treatment Process -->
     <section class="py-16">
         <div class="container mx-auto px-4 lg:px-8">
@@ -528,7 +620,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="Oral surgery procedure at Gnathos Dental Hyderabad" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">
             <h2 class="text-4xl md:text-5xl font-black text-white mb-6 leading-tight">Need Expert Oral Surgery?<br><span

@@ -10,7 +10,7 @@
     <meta name="keywords"
         content="dental crowns Hyderabad, dental bridges, tooth restoration, ceramic crowns, metal crowns, prosthodontist">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
-    <link rel="canonical" href="https://gnathosdentalcare.com/dental-crowns">
+    <link rel="canonical" href="https://www.gnathosdental.in/dental-crowns">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -24,6 +24,69 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Best Dental Crowns & Bridges in Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="High-quality dental crowns and bridges in Hyderabad. Ceramic, zirconia, metal options. Expert prosthodontists at Gnathos Dental. Book your consultation." />
+    <meta property="og:url" content="https://www.gnathosdental.in/dental-crowns" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Dental Crowns & Bridges","item":"https://www.gnathosdental.in/dental-crowns"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalProcedure",
+      "name": "Dental Crowns and Bridges in Hyderabad",
+      "description": "Custom-made dental crowns and bridges to restore damaged or missing teeth. Ceramic, zirconia, and porcelain options at Gnathos Dental, Hyderabad.",
+      "procedureType": "https://schema.org/TherapeuticProcedure",
+      "relevantSpecialty": "Dentistry",
+      "bodyLocation": "Tooth"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the cost of Dental Crown and Bridge Treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The cost of dental crown and bridge treatment varies depending on the type of crown/bridge, complexity of the case, and individual requirements. Our team will provide a detailed cost estimate during your consultation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do dental crowns and bridges last?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With proper care and maintenance, dental crowns and bridges can last 10-15 years or even longer. Regular dental check-ups and good oral hygiene are essential for their longevity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the dental crown procedure painful?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The procedure is performed under local anesthesia to ensure your comfort. Most patients experience minimal discomfort during and after the treatment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the different types of dental crowns available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer ceramic crowns for natural appearance and metal crowns for durability. Our dentist will recommend the best option based on your specific needs and the location of the tooth."
+          }
+        }
+      ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -492,6 +555,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+                alt="Dental crown and bridge restoration at Gnathos Dental Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>

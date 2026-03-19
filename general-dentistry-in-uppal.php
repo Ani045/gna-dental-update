@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best General Dentistry in Uppal, Uppal, Hyderabad | Gnathos Dental</title>
+    <title>Best General Dentistry in Uppal, Hyderabad | Gnathos Dental</title>
     <meta name="description"
-   Comprehensive general dentistry services in Uppal, Uppal, Hyderabad. Family dental care, preventive treatments, cleanings, fillings & more.llings & more.">
+   Comprehensive general dentistry services in Uppal, Hyderabad. Family dental care, preventive treatments, cleanings, fillings & more.llings & more.">
     <meta name="keywords" content="general dentistry Uppal, general dentistry Uppal Hyderabad, best general dentistry near me">
 
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
@@ -20,14 +20,14 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
-    <link rel="canonical" href="https://gnathosdentalcare.com/general-dentistry-in-uppal">
+    <link rel="canonical" href="https://www.gnathosdental.in/general-dentistry-in-uppal">
     <!-- Schema & Geo Tags -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - General Dentistry in Uppal, Hyderabad",
-      "url": "https://gnathosdentalcare.com/general-dentistry-in-uppal.php",
+      "url": "https://www.gnathosdental.in/general-dentistry-in-uppal.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",
@@ -41,6 +41,20 @@
     </script>
     <meta name="geo.region" content="IN-TG" />
     <meta name="geo.placename" content="Uppal, Hyderabad" />
+
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="General Dentistry in Uppal, Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Expert general dentistry near Uppal, Hyderabad. Painless, advanced technology, experienced specialists at Gnathos Dental. Book today!" />
+    <meta property="og:url" content="https://www.gnathosdental.in/general-dentistry-in-uppal" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalProcedure","name":"General Dentistry in Uppal, Hyderabad","description":"General Dentistry at Gnathos Dental, serving patients from Uppal, Hyderabad. Painless, precise, and premium care.","procedureType":"https://schema.org/TherapeuticProcedure","relevantSpecialty":"Dentistry","provider":{"@type":"Dentist","name":"Gnathos Dental","telephone":"+919955708885","address":{"@type":"PostalAddress","streetAddress":"Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City","addressLocality":"Hyderabad","addressRegion":"Telangana","postalCode":"500032","addressCountry":"IN"},"areaServed":{"@type":"Place","name":"Uppal, Hyderabad"}}}
+    </script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"General Dentistry","item":"https://www.gnathosdental.in/general-dentistry"},{"@type":"ListItem","position":3,"name":"General Dentistry in Uppal","item":"https://www.gnathosdental.in/general-dentistry-in-uppal"}]}
+    </script>
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -588,6 +602,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+                alt="General Dentistry at Gnathos Dental serving Uppal, Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">
@@ -607,6 +622,18 @@
     </section>
 
     
+
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">General Dentistry Near Uppal &#8211; <span class="text-gnathos">Why Patients Choose Gnathos Dental</span></h2>
+                <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Patients from Uppal seeking expert general dentistry choose Gnathos Dental in Hitech City for our combination of advanced technology, experienced MDS specialists, and painless treatment protocols. Our hospital-based clinic inside Care Hospital offers comprehensive family dental checkups, digital X-rays, professional cleanings, and preventive care programs, ensuring the highest standards of care and safety. With 15+ years of experience, 10,000+ happy patients, and a 4.9/5 Google rating, we are the most trusted destination for general dentistry near Uppal, Hyderabad. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your consultation</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Location Links Section -->
     <section class="py-12 bg-gray-50 border-t border-gray-200">
         <div class="container mx-auto px-4 lg:px-8">

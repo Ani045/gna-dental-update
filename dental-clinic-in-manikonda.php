@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Dental Clinic in Manikonda | Gnathos Dental</title>
-    <meta name="description" content="Visit Gnathos Dental Clinic in Manikonda, Hyderabad for world-class dental care. Expert dentists, advanced technology, and premium dental services.">
+    <meta name="description" content="Looking for the best dental clinic in Manikonda? Gnathos Dental offers painless implants, root canals, aligners &amp; cosmetic dentistry near Manikonda, Hyderabad. Book: +91 9955 708 885">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -20,6 +20,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="canonical" href="https://www.gnathosdental.in/dental-clinic-in-manikonda" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Best Dental Clinic in Manikonda | Gnathos Dental Hyderabad" />
+    <meta property="og:description" content="Expert dental care near Manikonda: implants, root canals, aligners, cosmetic dentistry. Rated 4.9/5. Book at Gnathos Dental today." />
+    <meta property="og:url" content="https://www.gnathosdental.in/dental-clinic-in-manikonda" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dentist","name":"Gnathos Dental – Manikonda","description":"Gnathos Dental is the best dental clinic serving Manikonda, Hyderabad. Expert dentists, advanced technology, painless procedures.","url":"https://www.gnathosdental.in/dental-clinic-in-manikonda","telephone":"+919955708885","email":"gnathosdentalcare@gmail.com","address":{"@type":"PostalAddress","streetAddress":"Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City","addressLocality":"Hyderabad","addressRegion":"Telangana","postalCode":"500032","addressCountry":"IN"},"areaServed":{"@type":"Place","name":"Manikonda, Hyderabad"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"10:00","closes":"20:00"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"500","bestRating":"5"}}
+    </script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Best Dental Clinic in Manikonda","item":"https://www.gnathosdental.in/dental-clinic-in-manikonda"}]}
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -263,6 +277,17 @@
         </div>
     </section>
 
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Gnathos Dental – Serving Patients from <span class="text-gnathos">Manikonda, Hyderabad</span></h2>
+                <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Patients from Manikonda trust Gnathos Dental for advanced dental implants and painless root canal treatments at our Hitech City facility. Our hospital-based clinic inside Care Hospital offers a level of care and safety that standalone clinics near Manikonda cannot match. With 15+ years of expertise, microscope-enhanced procedures, and a team of MDS oral surgeons, we provide world-class dental care minutes from Manikonda. Call +91 9955 708 885 to book your consultation.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Marquee -->
     <div class="bg-gnathos py-2 overflow-hidden">
         <div class="flex whitespace-nowrap animate-marquee">
@@ -375,7 +400,7 @@
                 </div>
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl min-h-[500px] fade-in">
                     <img src="assets/images/GNA Dental/homepage2/oral_surgery.jpg"
-                        class="absolute inset-0 w-full h-full object-cover">
+                        alt="Advanced oral surgery technology at Gnathos Dental near Manikonda" class="absolute inset-0 w-full h-full object-cover">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
                     <div
                         class="absolute bottom-8 left-8 right-8 bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/20 text-white">
@@ -420,22 +445,22 @@
             </div>
             <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
                 <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2021.png"
-                        class="h-24 mx-auto mb-2 object-contain">
+                        alt="Gnathos Dental award 2021" class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">Excellence Summit</h4>
                     <p class="text-xs text-gray-600">Forbes India</p>
                 </div>
                 <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2022.png"
-                        class="h-24 mx-auto mb-2 object-contain">
+                        alt="Gnathos Dental award 2022" class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">Asia Healthcare</h4>
                     <p class="text-xs text-gray-600">Award</p>
                 </div>
                 <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2023.png"
-                        class="h-24 mx-auto mb-2 object-contain">
+                        alt="Gnathos Dental award 2023" class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">International</h4>
                     <p class="text-xs text-gray-600">Business Award</p>
                 </div>
                 <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2024.png"
-                        class="h-24 mx-auto mb-2 object-contain">
+                        alt="Gnathos Dental award 2024" class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">International</h4>
                     <p class="text-xs text-gray-600">Excellence Award</p>
                 </div>
@@ -462,7 +487,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/homepage2/Dental Implant.jpg"
-                                class="w-full h-full object-cover">
+                                alt="Dental implant treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -487,7 +512,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/Save-Your-Natural-Tooth.png"
-                                class="w-full h-full object-cover">
+                                alt="Root canal treatment to save natural teeth at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -512,7 +537,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/Restore-Your-Smile-With-Dental-Crowns.png"
-                                class="w-full h-full object-cover">
+                                alt="Dental crowns and smile restoration at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -536,7 +561,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/Oral- Surgery.png" class="w-full h-full object-cover">
+                            <img src="assets/images/GNA Dental/Oral- Surgery.png" alt="Oral surgery services at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -561,7 +586,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/Safe & Painless-Wisdom-Tooth-Removal.png"
-                                class="w-full h-full object-cover">
+                                alt="Safe and painless wisdom tooth removal at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -586,7 +611,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/homepage2/general.jpg"
-                                class="w-full h-full object-cover">
+                                alt="Dental care at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -610,7 +635,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/laser-technology.png" class="w-full h-full object-cover">
+                            <img src="assets/images/GNA Dental/laser-technology.png" alt="Laser dentistry technology at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -636,7 +661,7 @@
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
                             <img src="assets/images/GNA Dental/homepage2/Aligners.jpg"
-                                class="w-full h-full object-cover">
+                                alt="Clear aligners treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -811,7 +836,7 @@
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
                     <img src="assets/images/GNA Dental/Icons/Dr-Naveetha.jpg"
-                        class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
+                        alt="Dr. Navatha Mortha - MDS Oral Surgeon at Gnathos Dental near Manikonda" class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
                         <h3 class="text-2xl font-bold mb-2">Dr. Navatha Mortha</h3>
@@ -824,7 +849,7 @@
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
                     <img src="assets/images/GNA Dental/homepage2/Dr-Pratyusha_.jpg"
-                        class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
+                        alt="Dr. Pratyusha - BDS Consultant at Gnathos Dental near Manikonda" class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
                         <h3 class="text-2xl font-bold mb-2">Dr. Pratyusha</h3>
@@ -837,7 +862,7 @@
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
                     <img src="assets/images/GNA Dental/Icons/Dr-Suresh.jpg"
-                        class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
+                        alt="Dr. Suresh - Dental Specialist at Gnathos Dental near Manikonda" class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
                         <h3 class="text-2xl font-bold mb-2">Dr. Suresh PL</h3>
@@ -865,38 +890,38 @@
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
                             src="assets/images/GNA Dental/homepage2/before1.png"
-                            class="w-full h-full object-cover"><span
+                            alt="Before dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Dental
                             Implant</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after1.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after1.png" alt="After dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
                             src="assets/images/GNA Dental/homepage2/before2.png"
-                            class="w-full h-full object-cover"><span
+                            alt="Before dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Smile
                             Design</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after2.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after2.png" alt="After dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
                             src="assets/images/GNA Dental/homepage2/before3_.png"
-                            class="w-full h-full object-cover"><span
+                            alt="Before dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Aligners</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after3.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after3.png" alt="After dental treatment at Gnathos Dental near Manikonda" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
@@ -961,7 +986,7 @@
                 </div>
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl border-8 border-gnathos/20"><img
                         src="assets/images/GNA Dental/homepage2/why.png"
-                        class="w-full h-[500px] object-cover hover:scale-105 transition duration-700">
+                        alt="Dental care at Gnathos Dental near Manikonda" class="w-full h-[500px] object-cover hover:scale-105 transition duration-700">
                     <div
                         class="absolute -bottom-6 -left-6 bg-dark/90 backdrop-blur-xl rounded-2xl p-6 border border-gnathos/20 hidden sm:flex items-center gap-3">
                         <div
@@ -980,7 +1005,7 @@
     <!-- CTA -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="Dental care at Gnathos Dental near Manikonda" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10">
@@ -1005,11 +1030,11 @@
                         </div>
                         <div class="flex items-center gap-8 pt-8 border-t border-white/10">
                             <div class="flex -space-x-3"><img src="https://i.pravatar.cc/100?img=21"
-                                    class="w-10 h-10 rounded-full border-2 border-dark"><img
+                                    alt="Dental care at Gnathos Dental near Manikonda" class="w-10 h-10 rounded-full border-2 border-dark"><img
                                     src="https://i.pravatar.cc/100?img=22"
-                                    class="w-10 h-10 rounded-full border-2 border-dark"><img
+                                    alt="Dental care at Gnathos Dental near Manikonda" class="w-10 h-10 rounded-full border-2 border-dark"><img
                                     src="https://i.pravatar.cc/100?img=23"
-                                    class="w-10 h-10 rounded-full border-2 border-dark"></div>
+                                    alt="Dental care at Gnathos Dental near Manikonda" class="w-10 h-10 rounded-full border-2 border-dark"></div>
                             <p class="text-sm text-gray-400"><strong class="block text-white">4.9/5 Rating</strong>by
                                 Google Reviews</p>
                         </div>

@@ -10,7 +10,7 @@
     <meta name="keywords"
         content="contact dental clinic Hyderabad, book dental appointment, dental clinic phone number, Gnathos Dental contact, dental emergency Hyderabad">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
-    <link rel="canonical" href="https://gnathosdentalcare.com/contact">
+    <link rel="canonical" href="https://www.gnathosdental.in/contact" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -24,6 +24,49 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Contact Gnathos Dental | Best Dental Clinic in Hyderabad" />
+    <meta property="og:description" content="Book your dental appointment at Gnathos Dental, Hyderabad's best dental clinic. Call +91 9955 708 885 or fill the form. Open Mon–Sat 10 AM–8 PM." />
+    <meta property="og:url" content="https://www.gnathosdental.in/contact" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Contact Us","item":"https://www.gnathosdental.in/contact"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact Gnathos Dental",
+      "url": "https://www.gnathosdental.in/contact",
+      "description": "Contact page for Gnathos Dental, the best dental clinic in Hyderabad. Book appointments, get directions, and reach us via phone, WhatsApp, or email.",
+      "mainEntity": {
+        "@type": "Dentist",
+        "name": "Gnathos Dental",
+        "telephone": "+919955708885",
+        "email": "gnathosdentalcare@gmail.com",
+        "url": "https://www.gnathosdental.in/",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City",
+          "addressLocality": "Hyderabad",
+          "addressRegion": "Telangana",
+          "postalCode": "500032",
+          "addressCountry": "IN"
+        },
+        "openingHoursSpecification": [{
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+          "opens": "10:00",
+          "closes": "20:00"
+        }],
+        "hasMap": "https://maps.google.com/?q=Gnathos+Dental+Hitech+City+Hyderabad"
+      }
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -39,7 +82,7 @@
     <section class="bg-gradient-to-br from-gnathos via-emerald-500 to-teal-600 pt-24 pb-16">
         <div class="container mx-auto px-4 text-center">
             <h1 class="text-4xl md:text-6xl font-bold text-white mb-6">
-                Contact Us
+                Contact Gnathos Dental – Book Your Appointment Today
             </h1>
             <p class="text-xl text-white/90 max-w-3xl mx-auto mb-8">
                 Get in touch with the best dental clinic in Hyderabad for expert dental care, advanced treatments, and
@@ -225,6 +268,19 @@
                         class="w-full inline-block border-2 border-gray-200 hover:border-gnathos text-gray-700 hover:text-gnathos px-4 py-2 rounded-lg font-medium transition">
                         Find Locations
                     </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Visit Best Dental Clinic Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Visit the Best Dental Clinic <span class="text-gnathos">in Hyderabad</span></h2>
+                <div class="space-y-6 text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>We welcome you to visit Gnathos Dental at our Hitech City clinic inside Care Hospital, one of Hyderabad's most accessible healthcare facilities. Our clinic offers valet parking, wheelchair accessibility, and a secure, hospital-grade environment for every patient. Whether you prefer to book an appointment online, call us, or simply walk in during our operating hours (Monday–Saturday, 10 AM–8 PM), our front desk team is ready to assist you with scheduling and insurance queries.</p>
+                    <p>At Gnathos Dental, we offer a complete range of dental services including dental implants, root canal treatment, dental crowns and bridges, oral surgery, wisdom tooth removal, clear aligners, laser dentistry, and cosmetic dentistry. With over 15 years of experience, 10,000+ happy patients, and a 4.9/5 Google rating, we are Hyderabad's most trusted dental clinic. Call us at <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> or <a href="https://wa.me/919955708885" class="text-gnathos font-semibold hover:underline">WhatsApp us</a> to book your appointment today.</p>
                 </div>
             </div>
         </div>

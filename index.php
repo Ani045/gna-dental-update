@@ -5,9 +5,10 @@
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="X_Ik37TeRJlzYA-PCAKDDn57fgDJ-p6PZorhb3Hh8Qw" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gnathos Dental | Premium Dental Care in Hyderabad</title>
-    <meta name="description" content="Experience world-class painless dentistry in Hyderabad.">
-    <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
+    <title>Best Dental Clinic in Hyderabad | Gnathos Dental – Painless & Advanced Care</title>
+    <meta name="description" content="Gnathos Dental is the best dental clinic in Hyderabad. Painless implants, root canals, aligners & cosmetic dentistry. 15+ years, 500+ reviews. Book: +91 9955 708 885">
+    <meta name="robots" content="index, follow" />
+    <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png" type="image/png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -21,6 +22,84 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="canonical" href="https://www.gnathosdental.in/" />
+    <meta property="og:title" content="Best Dental Clinic in Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Painless implants, root canals, aligners & cosmetic dentistry. Rated 4.9/5 with 500+ reviews. 15+ years experience." />
+    <meta property="og:url" content="https://www.gnathosdental.in/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta name="twitter:title" content="Best Dental Clinic in Hyderabad | Gnathos Dental" />
+    <meta name="twitter:description" content="Painless, precise & premium dental care in Hyderabad. 4.9/5 rating, 500+ reviews, 15+ years experience." />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Gnathos Dental",
+      "description": "The best dental clinic in Hyderabad offering painless dental implants, root canals, aligners, cosmetic dentistry, and laser dentistry with 15+ years of expertise.",
+      "url": "https://www.gnathosdental.in/",
+      "telephone": "+919955708885",
+      "email": "gnathosdentalcare@gmail.com",
+      "image": "https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "postalCode": "500032",
+        "addressCountry": "IN"
+      },
+      "geo": { "@type": "GeoCoordinates", "latitude": "17.4468", "longitude": "78.3777" },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        "opens": "10:00", "closes": "20:00"
+      }],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9", "reviewCount": "500", "bestRating": "5", "worstRating": "1"
+      },
+      "sameAs": [
+        "https://www.facebook.com/p/Gnathos-Dental-Clinic-100083936883629/",
+        "https://www.instagram.com/gnathosdental_/",
+        "https://www.youtube.com/@GnathosDentall"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "Why is Gnathos Dental considered the best dental clinic in Hyderabad?",
+          "acceptedAnswer": { "@type": "Answer", "text": "We combine 15+ years of expertise with world-class technology like 3D scanning, guided implant surgery, and laser dentistry to deliver painless, precise dental care in Hyderabad." }},
+        { "@type": "Question", "name": "Does Gnathos Dental offer a Lifetime Warranty on treatments?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, we offer lifetime warranties on premium dental implants and ceramic crowns at our Hyderabad clinic." }},
+        { "@type": "Question", "name": "Is dental treatment at Gnathos Dental painful?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. We specialize in Painless Dentistry using advanced anesthesia and laser techniques for maximum comfort." }},
+        { "@type": "Question", "name": "How can I book a consultation at Gnathos Dental?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Book online at gnathosdental.in or call +91 9955 708 885. Open Mon–Sat, 10 AM–8 PM in Hitech City, Hyderabad." }},
+        { "@type": "Question", "name": "Where is Gnathos Dental located in Hyderabad?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City, Hyderabad 500032." }}
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Gnathos Dental",
+      "url": "https://www.gnathosdental.in/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.gnathosdental.in/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -50,10 +129,13 @@
                             Ranked #1 Dental Clinic
                         </span>
                         <h1
-                            class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-black leading-[1.1] tracking-tight mb-4 sm:mb-6">
-                            Re-Imagine Your <br>
-                            <span class="text-gnathos">Perfect Smile</span>
+                            class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-black leading-[1.1] tracking-tight mb-2 sm:mb-3">
+                            Best Dental Clinic <br>
+                            <span class="text-gnathos">in Hyderabad</span>
                         </h1>
+                        <p class="text-xl sm:text-2xl md:text-3xl font-bold text-gray-800 mb-4 sm:mb-6">
+                            Re-Imagine Your <span class="text-gnathos">Perfect Smile</span>
+                        </p>
                         <p class="text-base sm:text-lg lg:text-xl text-gray-700 leading-relaxed font-medium">
                             Experience the future of dentistry. Painless, precise, and premium care tailored exclusively
                             for you in Hyderabad.
@@ -81,22 +163,22 @@
                         <div class="flex -space-x-3 sm:-space-x-4">
                             <div
                                 class="w-8 sm:w-10 h-8 sm:h-10 rounded-full border-2 border-white bg-gray-200 overflow-hidden shadow-md">
-                                <img src="https://i.pravatar.cc/100?img=11" alt="Patient"
+                                <img src="https://i.pravatar.cc/100?img=11" alt="Happy patient at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="w-8 sm:w-10 h-8 sm:h-10 rounded-full border-2 border-white bg-gray-200 overflow-hidden shadow-md">
-                                <img src="https://i.pravatar.cc/100?img=12" alt="Patient"
+                                <img src="https://i.pravatar.cc/100?img=12" alt="Satisfied patient at Gnathos Dental clinic"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="w-8 sm:w-10 h-8 sm:h-10 rounded-full border-2 border-white bg-gray-200 overflow-hidden shadow-md">
-                                <img src="https://i.pravatar.cc/100?img=13" alt="Patient"
+                                <img src="https://i.pravatar.cc/100?img=13" alt="Patient review at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="w-8 sm:w-10 h-8 sm:h-10 rounded-full border-2 border-white bg-gray-200 overflow-hidden shadow-md">
-                                <img src="https://i.pravatar.cc/100?img=14" alt="Patient"
+                                <img src="https://i.pravatar.cc/100?img=14" alt="Happy dental patient at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                         </div>
@@ -139,17 +221,17 @@
                             <div></div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Dental treatment at best dental clinic in Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Patient smile transformation at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="Modern dental care at Gnathos Dental Hitech City"
                                     class="w-full h-full object-cover">
                             </div>
                             <div></div>
@@ -157,81 +239,81 @@
                             <!-- Row 2: X X X X X -->
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Advanced dental technology at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Beautiful smile makeover at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Painless dental procedure at Gnathos Dental clinic"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="Premium dental care at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Cosmetic dentistry results at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
 
                             <!-- Row 3: X X X X X -->
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Dental clinic interior at Gnathos Dental Hitech City"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after2.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after2.png" alt="Dental implant before and after results at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after3.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after3.png" alt="Smile design after treatment at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after4.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after4.png" alt="Aligners treatment results at best dental clinic in Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Happy patient smile at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
 
                             <!-- Row 4: X X X X X -->
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/2.jpg" alt="Expert dental care at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/3.jpg" alt="Dental treatment room at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/4.jpg" alt="World-class dental equipment at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/5.jpg" alt="Laser dentistry treatment at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/sm1.jpg" alt="Smile restoration at best dental clinic in Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
 
@@ -239,17 +321,17 @@
                             <div></div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after2.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after2.png" alt="Dental implant after results at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after3.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after3.png" alt="Cosmetic dentistry after treatment at Gnathos Dental Hyderabad"
                                     class="w-full h-full object-cover">
                             </div>
                             <div
                                 class="relative rounded-xl overflow-hidden shadow-md border-2 border-white cursor-pointer hover:scale-110 hover:z-10 transition-transform">
-                                <img src="assets/images/GNA Dental/homepage2/after4.png" alt="Smile"
+                                <img src="assets/images/GNA Dental/homepage2/after4.png" alt="Perfect smile after aligners treatment at Gnathos Dental"
                                     class="w-full h-full object-cover">
                             </div>
                             <div></div>
@@ -376,7 +458,7 @@
                         Technology →</a>
                 </div>
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl min-h-[500px] fade-in">
-                    <img src="assets/images/GNA Dental/homepage2/oral_surgery.jpg"
+                    <img src="assets/images/GNA Dental/homepage2/oral_surgery.jpg" alt="Advanced dental technology at Gnathos Dental Hitech City"
                         class="absolute inset-0 w-full h-full object-cover">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
                     <div
@@ -421,22 +503,22 @@
                 </div>
             </div>
             <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
-                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2021.png"
+                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2021.png" alt="Forbes India Excellence Summit Award 2021 – Gnathos Dental"
                         class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">Excellence Summit</h4>
                     <p class="text-xs text-gray-600">Forbes India</p>
                 </div>
-                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2022.png"
+                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2022.png" alt="Asia Healthcare Award 2022 – Gnathos Dental Hyderabad"
                         class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">Asia Healthcare</h4>
                     <p class="text-xs text-gray-600">Award</p>
                 </div>
-                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2023.png"
+                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2023.png" alt="International Business Award 2023 – Gnathos Dental"
                         class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">International</h4>
                     <p class="text-xs text-gray-600">Business Award</p>
                 </div>
-                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2024.png"
+                <div class="text-center"><img src="assets/images/GNA Dental/homepage2/2024.png" alt="International Excellence Award 2024 – Gnathos Dental Hyderabad"
                         class="h-24 mx-auto mb-2 object-contain">
                     <h4 class="font-bold text-xs">International</h4>
                     <p class="text-xs text-gray-600">Excellence Award</p>
@@ -463,7 +545,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/homepage2/Dental Implant.jpg"
+                            <img src="assets/images/GNA Dental/homepage2/Dental Implant.jpg" alt="Dental implants treatment at best dental clinic in Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -488,7 +570,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/Save-Your-Natural-Tooth.png"
+                            <img src="assets/images/GNA Dental/Save-Your-Natural-Tooth.png" alt="Painless root canal treatment at Gnathos Dental Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -513,7 +595,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/Restore-Your-Smile-With-Dental-Crowns.png"
+                            <img src="assets/images/GNA Dental/Restore-Your-Smile-With-Dental-Crowns.png" alt="Dental crowns and bridges at Gnathos Dental Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -538,7 +620,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/Oral- Surgery.png" class="w-full h-full object-cover">
+                            <img src="assets/images/GNA Dental/Oral- Surgery.png" alt="Oral surgery at Gnathos Dental clinic Hyderabad" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -562,7 +644,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/Safe & Painless-Wisdom-Tooth-Removal.png"
+                            <img src="assets/images/GNA Dental/Safe & Painless-Wisdom-Tooth-Removal.png" alt="Painless wisdom tooth removal at Gnathos Dental Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -587,7 +669,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/homepage2/general.jpg"
+                            <img src="assets/images/GNA Dental/homepage2/general.jpg" alt="General dentistry services at Gnathos Dental Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -612,7 +694,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/laser-technology.png" class="w-full h-full object-cover">
+                            <img src="assets/images/GNA Dental/laser-technology.png" alt="Laser dentistry treatment at best dental clinic in Hyderabad" class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
                             <div class="absolute bottom-0 left-0 right-0 p-4 sm:p-6 text-center text-white">
@@ -637,7 +719,7 @@
                 <div class="flip-card h-[280px] sm:h-[320px] cursor-pointer">
                     <div class="flip-card-inner relative w-full h-full">
                         <div class="flip-card-front absolute inset-0 rounded-2xl overflow-hidden shadow-xl">
-                            <img src="assets/images/GNA Dental/homepage2/Aligners.jpg"
+                            <img src="assets/images/GNA Dental/homepage2/Aligners.jpg" alt="Clear aligners and invisible braces at Gnathos Dental Hyderabad"
                                 class="w-full h-full object-cover">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent">
                             </div>
@@ -812,7 +894,7 @@
             <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
-                    <img src="assets/images/GNA Dental/Icons/Dr-Naveetha.jpg"
+                    <img src="assets/images/GNA Dental/Icons/Dr-Naveetha.jpg" alt="Dr. Navatha Mortha – MDS Oral Surgeon at Gnathos Dental Hyderabad"
                         class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
@@ -825,7 +907,7 @@
                 </div>
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
-                    <img src="assets/images/GNA Dental/homepage2/Dr-Pratyusha_.jpg"
+                    <img src="assets/images/GNA Dental/homepage2/Dr-Pratyusha_.jpg" alt="Dr. Pratyusha – BDS Consultant at Gnathos Dental Hyderabad"
                         class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
@@ -838,7 +920,7 @@
                 </div>
                 <div
                     class="relative h-[450px] rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition hover:-translate-y-2 border-2 border-gnathos/20 group">
-                    <img src="assets/images/GNA Dental/Icons/Dr-Suresh.jpg"
+                    <img src="assets/images/GNA Dental/Icons/Dr-Suresh.jpg" alt="Dr. Suresh PL – MDS, MOMS RCPS UK at Gnathos Dental Hyderabad"
                         class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-6 text-white">
@@ -866,39 +948,39 @@
             <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
-                            src="assets/images/GNA Dental/homepage2/before1.png"
+                            src="assets/images/GNA Dental/homepage2/before1.png" alt="Dental implant before treatment at Gnathos Dental Hyderabad"
                             class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Dental
                             Implant</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after1.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after1.png" alt="Dental implant after results at Gnathos Dental Hyderabad" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
-                            src="assets/images/GNA Dental/homepage2/before2.png"
+                            src="assets/images/GNA Dental/homepage2/before2.png" alt="Smile design before treatment at Gnathos Dental"
                             class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Smile
                             Design</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after2.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after2.png" alt="Smile design after results at Gnathos Dental Hyderabad" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
                 <div class="bg-white/80 rounded-3xl p-4 shadow-lg border hover:-translate-y-2 transition">
                     <div class="relative rounded-2xl overflow-hidden h-48 mb-3"><img
-                            src="assets/images/GNA Dental/homepage2/before3_.png"
+                            src="assets/images/GNA Dental/homepage2/before3_.png" alt="Aligners before treatment at best dental clinic in Hyderabad"
                             class="w-full h-full object-cover"><span
                             class="absolute top-3 right-3 bg-white/95 text-gnathos px-3 py-1 rounded-full text-xs font-bold uppercase">Aligners</span><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">Before</span>
                     </div>
                     <div class="relative rounded-2xl overflow-hidden h-48"><img
-                            src="assets/images/GNA Dental/homepage2/after3.png" class="w-full h-full object-cover"><span
+                            src="assets/images/GNA Dental/homepage2/after3.png" alt="Aligners after results at Gnathos Dental Hyderabad" class="w-full h-full object-cover"><span
                             class="absolute bottom-3 right-3 bg-gnathos text-white px-3 py-1.5 rounded-xl text-xs font-bold uppercase">After</span>
                     </div>
                 </div>
@@ -962,7 +1044,7 @@
                     </div>
                 </div>
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl border-8 border-gnathos/20"><img
-                        src="assets/images/GNA Dental/homepage2/why.png"
+                        src="assets/images/GNA Dental/homepage2/why.png" alt="Why choose Gnathos Dental – best dental clinic in Hyderabad"
                         class="w-full h-[500px] object-cover hover:scale-105 transition duration-700">
                     <div
                         class="absolute -bottom-6 -left-6 bg-dark/90 backdrop-blur-xl rounded-2xl p-6 border border-gnathos/20 hidden sm:flex items-center gap-3">
@@ -979,9 +1061,28 @@
         </div>
     </section>
 
+    <!-- Why Gnathos Dental is the Best -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 text-center mb-12">Why Gnathos Dental is the <span class="text-gnathos">Best Dental Clinic in Hyderabad</span></h2>
+
+                <div class="space-y-6 text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Located within Care Hospital in Hitech City, Gnathos Dental has earned its reputation as the <strong>best dental clinic in Hyderabad</strong> through over 15 years of dedicated service. Our hospital-based setting provides patients with a secure, sterile environment backed by emergency medical support — a standard that standalone clinics simply cannot match. Whether you need a routine check-up or a complex oral surgery, our <strong>dental clinic in Hyderabad</strong> delivers world-class outcomes with a patient-first approach that has earned us 500+ five-star Google reviews and a 4.9/5 rating.</p>
+
+                    <p>What truly sets Gnathos Dental apart is our investment in German-imported, cutting-edge dental technology. Our clinic features 3D Digital Smile Design for treatment visualization, Guided Implant Surgery for computer-assisted precision, Microscope-enhanced Root Canals for unmatched accuracy, Class B Autoclave sterilization for complete safety, and Same Day Implant protocols. As a leader in <strong>painless dentistry Hyderabad</strong> patients trust, we use advanced laser systems that minimize bleeding, reduce recovery time, and eliminate discomfort — making every visit comfortable and stress-free.</p>
+
+                    <p>Our expert team is led by Dr. Navatha Mortha (MDS Oral Surgeon), a specialist in oral and maxillofacial surgery with extensive experience in complex implant cases. Dr. Pratyusha (BDS Consultant) serves as Clinical Superintendent and Head of Operations, ensuring every patient receives seamless, personalized care. Dr. Suresh PL (MDS, MOMS RCPS UK) brings international expertise from the Royal College of Physicians and Surgeons, UK, elevating our clinical standards to global benchmarks. Together, they make Gnathos Dental the most trusted <strong>dental clinic in Hyderabad</strong> for advanced procedures.</p>
+
+                    <p>From <strong>dental implants Hyderabad</strong> patients rely on for permanent tooth replacement, to painless root canals, clear aligners, cosmetic dentistry, and laser treatments — Gnathos Dental offers a full spectrum of services under one roof. With a 99% treatment success rate, lifetime warranty on premium implants and ceramic crowns, and a commitment to <strong>painless dentistry Hyderabad</strong> families deserve, we continue to be the preferred choice for thousands of patients across the city. As the <strong>best dental clinic in Hyderabad</strong>, we also specialize in <strong>dental implants Hyderabad</strong> patients need for long-lasting, natural-looking results. Ready to experience the difference? <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your appointment online</a> or call us at <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- CTA -->
     <section class="py-20 bg-dark relative overflow-hidden">
-        <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+        <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png" alt="Gnathos Dental clinic reception in Hitech City Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>

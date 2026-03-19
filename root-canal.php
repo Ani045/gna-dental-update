@@ -10,7 +10,7 @@
     <meta name="keywords"
         content="root canal treatment Hyderabad, endodontist, painless root canal, tooth pain relief, dental infection treatment">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
-    <link rel="canonical" href="https://gnathosdentalcare.com/root-canal">
+    <link rel="canonical" href="https://www.gnathosdental.in/root-canal">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -24,6 +24,47 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Best Root Canal Treatment in Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Painless root canal treatment in Hyderabad. Microscope-assisted, experienced endodontists. Save your natural tooth. Book today at Gnathos Dental." />
+    <meta property="og:url" content="https://www.gnathosdental.in/root-canal" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Root Canal Treatment","item":"https://www.gnathosdental.in/root-canal"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "Root Canal Treatment in Hyderabad",
+        "description": "Painless root canal treatment to remove infected pulp and save natural teeth. Performed with microscope-assisted precision at Gnathos Dental, Hyderabad.",
+        "procedureType": "https://schema.org/TherapeuticProcedure",
+        "preparation": "X-rays, diagnosis of infection severity",
+        "howPerformed": "Removal of infected pulp under local anesthesia, canal cleaning, shaping and sealing with gutta-percha",
+        "relevantSpecialty": "Dentistry",
+        "bodyLocation": "Tooth"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            { "@type": "Question", "name": "Is root canal treatment painful?",
+              "acceptedAnswer": { "@type": "Answer", "text": "No. Modern root canal treatment at Gnathos Dental is virtually painless. We use advanced anesthesia and microscope-assisted techniques for a comfortable experience." }},
+            { "@type": "Question", "name": "How many sittings are required for root canal treatment in Hyderabad?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Most root canal treatments at Gnathos Dental are completed in 1-2 sittings depending on infection severity and tooth condition." }},
+            { "@type": "Question", "name": "How much does root canal treatment cost in Hyderabad?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Root canal costs vary by tooth location and complexity. Contact Gnathos Dental at +91 9955 708 885 for a detailed estimate during consultation." }},
+            { "@type": "Question", "name": "Can a root canal treated tooth last a lifetime?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes, with proper restoration (crown) and good oral hygiene, a root canal treated tooth can last a lifetime." }}
+        ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -564,7 +605,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="Painless root canal treatment at Gnathos Dental Hyderabad" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">

@@ -10,7 +10,7 @@
     <meta name="keywords"
         content="clear aligners Hyderabad, invisible braces, teeth alignment, orthodontist Hyderabad, clear aligner cost, invisible orthodontics, teeth straightening">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
-    <link rel="canonical" href="https://gnathosdentalcare.com/aligners">
+    <link rel="canonical" href="https://www.gnathosdental.in/aligners">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -24,6 +24,84 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Best Clear Aligners in Hyderabad | Gnathos Dental – Invisible Braces" />
+    <meta property="og:description" content="Get the best clear aligners in Hyderabad at Gnathos Dental. Comfortable, discreet invisible braces. Expert orthodontists. Book your consultation today!" />
+    <meta property="og:url" content="https://www.gnathosdental.in/aligners" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Aligners","item":"https://www.gnathosdental.in/aligners"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalProcedure",
+      "name": "Clear Aligners in Hyderabad",
+      "description": "Invisible clear aligner treatment to straighten teeth without metal braces. Custom-made, comfortable aligners by expert orthodontists at Gnathos Dental, Hyderabad.",
+      "procedureType": "https://schema.org/TherapeuticProcedure",
+      "relevantSpecialty": "Dentistry"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are clear aligners and how do they work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clear aligners are transparent, removable orthodontic devices that gradually straighten teeth. Made from medical-grade plastic, they apply gentle pressure to move teeth into their desired positions. Each set of aligners is custom-made and worn for about 20-22 hours daily, with new aligners every 1-2 weeks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does clear aligner treatment take in Hyderabad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clear aligner treatment typically takes 6-18 months depending on the complexity of your case. Simple misalignments may be corrected in as little as 6 months, while more complex cases may require up to 24 months. Our orthodontists in Hyderabad provide personalized treatment timelines during consultation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are clear aligners better than traditional braces?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clear aligners offer several advantages including being nearly invisible, removable for eating and cleaning, more comfortable with no brackets or wires, and fewer office visits. However, traditional braces may be better for complex cases. Our specialists will recommend the best option for your specific needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cost of clear aligners treatment in Hyderabad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The cost of clear aligners varies based on treatment complexity and duration. At Gnathos Dental, we offer competitive pricing for premium aligner systems. We provide detailed cost estimates during consultation and offer flexible payment plans to make treatment affordable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I eat and drink with clear aligners?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You should remove clear aligners when eating or drinking anything other than plain water. This prevents staining and damage to the aligners. One of the major advantages is that you can eat all your favorite foods without restrictions, unlike traditional braces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I clean and maintain my clear aligners?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clean your aligners daily with lukewarm water and a soft toothbrush. Use special cleaning crystals or denture cleaners for deep cleaning. Avoid hot water, colored soaps, or harsh chemicals. Always brush your teeth before putting aligners back in to maintain good oral hygiene."
+          }
+        }
+      ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -54,11 +132,12 @@
                             ✨ Best Clear Aligners in Hyderabad
                         </span>
                         <h1 class="text-4xl lg:text-4xl font-bold text-gray-800 leading-tight">
-                            Transform Your Smile
+                            Best Clear Aligners in Hyderabad –
                             <span class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent">
-                                Invisibly </span>
-                            <br>With Clear Aligners!
+                                Invisible Braces </span>
+                            <br>at Gnathos Dental
                         </h1>
+                        <p class="text-xl text-gray-600">Transform Your Smile Invisibly</p>
                         <p class="text-lg text-gray-600 leading-relaxed">
                             Advanced Clear Aligners in Hyderabad for a Confident, Perfect Smile. Gnathos Dental Clinic
                             offers cutting-edge clear aligner solutions that gently and precisely move your teeth into
@@ -658,7 +737,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="Clear aligner invisible braces treatment at Gnathos Dental Hyderabad" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">

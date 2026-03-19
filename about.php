@@ -4,9 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Expert Dental Care in Hyderabad</title>
-    <meta name="description"
-        content="Learn about Gnathos Dental's mission, values, and commitment to providing exceptional dental care in Hyderabad. Meet our expert team and discover our story.">
+    <title>About Gnathos Dental | Best Dental Clinic in Hyderabad – Our Story &amp; Team</title>
+    <meta name="description" content="Discover Gnathos Dental – Hyderabad's best dental clinic for 15+ years. Meet our expert team of MDS specialists, learn our story, and see why 10,000+ patients trust us.">
     <meta name="keywords" content="about gnathos dental, dental clinic hyderabad, expert dentists, dental care mission">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -22,6 +21,60 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="canonical" href="https://www.gnathosdental.in/about" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta property="og:title" content="About Gnathos Dental | Best Dental Clinic in Hyderabad" />
+    <meta property="og:description" content="15+ years of expert dental care in Hyderabad. Meet our MDS specialist team and learn why 10,000+ patients choose Gnathos Dental." />
+    <meta property="og:url" content="https://www.gnathosdental.in/about" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"About Us","item":"https://www.gnathosdental.in/about"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Gnathos Dental",
+      "url": "https://www.gnathosdental.in/",
+      "description": "Gnathos Dental is the best dental clinic in Hyderabad, providing advanced, painless dental care for 15+ years with a team of MDS specialists.",
+      "telephone": "+919955708885",
+      "email": "gnathosdentalcare@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City",
+        "addressLocality": "Hyderabad",
+        "addressRegion": "Telangana",
+        "postalCode": "500032",
+        "addressCountry": "IN"
+      },
+      "employee": [
+        { "@type": "Person", "name": "Dr. Navatha Mortha", "jobTitle": "MDS Oral and Maxillofacial Surgeon" },
+        { "@type": "Person", "name": "Dr. Pratyusha", "jobTitle": "BDS Consultant Dental Surgeon" },
+        { "@type": "Person", "name": "Dr. Suresh PL", "jobTitle": "MDS Senior Consultant Oral and Maxillofacial Surgeon" }
+      ],
+      "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "500", "bestRating": "5" }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "How many years has Gnathos Dental been operating in Hyderabad?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Gnathos Dental has been providing expert dental care in Hyderabad for over 15 years, serving more than 10,000 happy patients across the city." }},
+        { "@type": "Question", "name": "How many dentists are at Gnathos Dental?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Our team includes Dr. Navatha Mortha (MDS Oral Surgeon), Dr. Pratyusha (BDS Consultant), and Dr. Suresh PL (MDS, MOMS RCPS UK Senior Consultant)." }},
+        { "@type": "Question", "name": "Where is Gnathos Dental located?",
+          "acceptedAnswer": { "@type": "Answer", "text": "We are located at Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City, Hyderabad – 500032." }},
+        { "@type": "Question", "name": "Is Gnathos Dental accredited?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Gnathos Dental is ISO 9001 Certified and NABH Accredited, and has received multiple national and international healthcare awards." }}
+      ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -50,10 +103,15 @@
                             About Our Practice
                         </span>
                         <h1 class="text-4xl lg:text-6xl font-bold text-gray-800 leading-tight">
+                            About Gnathos Dental –
+                            <span class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent">
+                                Best Dental Clinic in Hyderabad</span>
+                        </h1>
+                        <h2 class="text-2xl lg:text-3xl font-bold text-gray-800 leading-tight mt-2">
                             Transforming Smiles,
                             <span class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent">
                                 Changing Lives</span>
-                        </h1>
+                        </h2>
                         <p class="text-lg text-gray-600 leading-relaxed">
                             At Gnathos Dental, we believe that a healthy, beautiful smile has the power to transform
                             lives. For over 15 years, we've been committed to providing exceptional dental care that
@@ -226,6 +284,31 @@
         </div>
     </section>
 
+    <!-- Why Gnathos Dental -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Why Gnathos Dental is Hyderabad's <span class="text-gnathos">Most Trusted Dental Clinic</span></h2>
+            <div class="space-y-6 text-gray-700 text-base sm:text-lg leading-relaxed">
+                <p>Founded over 15 years ago, Gnathos Dental began with a simple mission: to bring world-class dental care to Hyderabad. Operating from within Care Hospital in Hitech City, our clinic combines the security and infrastructure of a hospital-based setting with the warmth of a boutique dental practice. Over the years, we have grown to serve more than 10,000 patients, earning a 4.9/5 Google rating and 500+ five-star reviews — a testament to our commitment to excellence and patient satisfaction.</p>
+                <p>What sets us apart is our investment in the latest dental technology imported from Germany and the USA. Our clinic features 3D Digital Smile Design for treatment visualization, Microscope-enhanced Root Canals for unmatched precision, Guided Implant Surgery for computer-assisted placement, Class B Autoclave sterilization for hospital-grade safety, and Same Day Implant protocols. This technology, combined with our team of MDS specialists, makes Gnathos Dental the <strong>best dental clinic in Hyderabad</strong> for advanced and painless treatments.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!-- Awards & Accreditations -->
+<section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-4 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Our Awards & <span class="text-gnathos">Accreditations</span></h2>
+            <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                <p>Gnathos Dental's dedication to clinical excellence has been recognized with multiple prestigious awards including the Forbes India Excellence Summit Award, Asia Healthcare Award, International Business Award, and International Excellence Award. We are proud recipients of the Prestigious Patient Service Award and hold ISO 9001 Certification and NABH Accreditation — the gold standard for healthcare quality in India.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
     <!-- Doctors Section -->
     <section id="doctors" class="py-16 bg-gradient-to-br from-gray-50 to-emerald-50">
         <div class="container mx-auto px-4 lg:px-8">
@@ -285,10 +368,23 @@
         </div>
     </section>
 
+    <!-- FAQ Section -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4 lg:px-8">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-12">Frequently Asked Questions <span class="text-gnathos">About Gnathos Dental</span></h2>
+        <div class="max-w-3xl mx-auto">
+            <div class="faq-item border-b"><button class="faq-question w-full py-6 flex justify-between items-center text-left" onclick="this.parentElement.classList.toggle('active')"><h3 class="font-semibold text-lg">How many years has Gnathos Dental been operating in Hyderabad?</h3><span class="faq-icon text-gnathos transition-transform">&#9660;</span></button><div class="faq-answer"><p class="pb-6 text-gray-600">Gnathos Dental has been providing expert dental care in Hyderabad for over 15 years, serving more than 10,000 happy patients across the city.</p></div></div>
+            <div class="faq-item border-b"><button class="faq-question w-full py-6 flex justify-between items-center text-left" onclick="this.parentElement.classList.toggle('active')"><h3 class="font-semibold text-lg">How many dentists are at Gnathos Dental?</h3><span class="faq-icon text-gnathos transition-transform">&#9660;</span></button><div class="faq-answer"><p class="pb-6 text-gray-600">Our team includes Dr. Navatha Mortha (MDS Oral Surgeon), Dr. Pratyusha (BDS Consultant), and Dr. Suresh PL (MDS, MOMS RCPS UK Senior Consultant).</p></div></div>
+            <div class="faq-item border-b"><button class="faq-question w-full py-6 flex justify-between items-center text-left" onclick="this.parentElement.classList.toggle('active')"><h3 class="font-semibold text-lg">Where is Gnathos Dental located?</h3><span class="faq-icon text-gnathos transition-transform">&#9660;</span></button><div class="faq-answer"><p class="pb-6 text-gray-600">We are located at Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City, Hyderabad – 500032.</p></div></div>
+            <div class="faq-item border-b"><button class="faq-question w-full py-6 flex justify-between items-center text-left" onclick="this.parentElement.classList.toggle('active')"><h3 class="font-semibold text-lg">Is Gnathos Dental accredited?</h3><span class="faq-icon text-gnathos transition-transform">&#9660;</span></button><div class="faq-answer"><p class="pb-6 text-gray-600">Yes. We are ISO 9001 Certified and NABH Accredited, and have received multiple national and international healthcare awards.</p></div></div>
+        </div>
+    </div>
+</section>
+
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="Gnathos Dental clinic in Hitech City Hyderabad" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">

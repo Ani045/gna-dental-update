@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Laser Dentistry in LB Nagar, LB Nagar, Hyderabad | Gnathos Dental</title>
-    <meta name="descriptioExperience advanced laser dentistry in LB Nagar, LB Nagar, Hyderabad at Gnathos Dental. Painless, precise laser treatments for gums, cavities & more.ms, cavities & more.">
+    <title>Advanced Laser Dentistry in LB Nagar, Hyderabad | Gnathos Dental</title>
+    <meta name="description" content="Best Laser Dentistry in LB Nagar, Hyderabad at Gnathos Dental. Expert specialists, advanced technology, painless procedures. Book: +91 9955 708 885">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>tailwind.config = { theme: { extend: { colors: { gnathos: '#00bbb0', dark: '#001817' } } } }</script>
@@ -17,14 +17,14 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
-    <link rel="canonical" href="https://gnathosdentalcare.com/laser-dentistry-in-lb-nagar">
+    <link rel="canonical" href="https://www.gnathosdental.in/laser-dentistry-in-lb-nagar">
     <!-- Schema & Geo Tags -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Laser Dentistry in LB Nagar, Hyderabad",
-      "url": "https://gnathosdentalcare.com/laser-dentistry-in-lb-nagar.php",
+      "url": "https://www.gnathosdental.in/laser-dentistry-in-lb-nagar.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",
@@ -38,6 +38,20 @@
     </script>
     <meta name="geo.region" content="IN-TG" />
     <meta name="geo.placename" content="LB Nagar, Hyderabad" />
+
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Laser Dentistry in LB Nagar, Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Expert laser dentistry near LB Nagar, Hyderabad. Painless, advanced technology, experienced specialists at Gnathos Dental. Book today!" />
+    <meta property="og:url" content="https://www.gnathosdental.in/laser-dentistry-in-lb-nagar" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalProcedure","name":"Laser Dentistry in LB Nagar, Hyderabad","description":"Laser Dentistry at Gnathos Dental, serving patients from LB Nagar, Hyderabad. Painless, precise, and premium care.","procedureType":"https://schema.org/TherapeuticProcedure","relevantSpecialty":"Dentistry","provider":{"@type":"Dentist","name":"Gnathos Dental","telephone":"+919955708885","address":{"@type":"PostalAddress","streetAddress":"Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City","addressLocality":"Hyderabad","addressRegion":"Telangana","postalCode":"500032","addressCountry":"IN"},"areaServed":{"@type":"Place","name":"LB Nagar, Hyderabad"}}}
+    </script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Laser Dentistry","item":"https://www.gnathosdental.in/laser-dentistry"},{"@type":"ListItem","position":3,"name":"Laser Dentistry in LB Nagar","item":"https://www.gnathosdental.in/laser-dentistry-in-lb-nagar"}]}
+    </script>
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -668,6 +682,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+                alt="Laser Dentistry at Gnathos Dental serving LB Nagar, Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">
@@ -687,6 +702,18 @@
     </section>
 
     
+
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Laser Dentistry Near LB Nagar &#8211; <span class="text-gnathos">Why Patients Choose Gnathos Dental</span></h2>
+                <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Patients from LB Nagar seeking expert laser dentistry choose Gnathos Dental in Hitech City for our combination of advanced technology, experienced MDS specialists, and painless treatment protocols. Our hospital-based clinic inside Care Hospital offers advanced dental lasers for painless gum treatment, cavity removal, and periodontal procedures, ensuring the highest standards of care and safety. With 15+ years of experience, 10,000+ happy patients, and a 4.9/5 Google rating, we are the most trusted destination for laser dentistry near LB Nagar, Hyderabad. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your consultation</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Location Links Section -->
     <section class="py-12 bg-gray-50 border-t border-gray-200">
         <div class="container mx-auto px-4 lg:px-8">

@@ -6,13 +6,92 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best General Dentistry in Hyderabad | Gnathos Dental</title>
     <meta name="description"
-        content="Comprehensive general dentistry services in Hyderabad. Family dental care, preventive treatments, cleanings, fillings & more.">
+        content="Best general dentistry in Hyderabad at Gnathos Dental. Family dental checkups, cleanings, fillings, preventive care for all ages. Book your appointment today!">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>tailwind.config = { theme: { extend: { colors: { gnathos: '#00bbb0', dark: '#001817' } } } }</script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="canonical" href="https://www.gnathosdental.in/general-dentistry" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gnathos Dental" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@GnathosDentall" />
+    <meta property="og:title" content="Best General Dentistry in Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Comprehensive general dentistry for the whole family in Hyderabad. Checkups, cleanings, fillings, preventive care at Gnathos Dental." />
+    <meta property="og:url" content="https://www.gnathosdental.in/general-dentistry" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"General Dentistry","item":"https://www.gnathosdental.in/general-dentistry"}]}
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalProcedure",
+        "name": "General Dentistry in Hyderabad",
+        "description": "Comprehensive general dentistry services for families in Hyderabad including checkups, cleanings, fillings, fluoride treatments, and preventive care at Gnathos Dental.",
+        "procedureType": "https://schema.org/TherapeuticProcedure",
+        "relevantSpecialty": "Dentistry"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How often should I visit the dentist for general check-ups?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For most patients, we recommend dental check-ups and cleanings every 6 months. However, some patients with specific oral health conditions may need more frequent visits. Our general dentistry team in Hyderabad will recommend the best schedule based on your individual oral health needs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What services are included in general dentistry?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "General dentistry includes preventive care like cleanings and exams, restorative treatments such as fillings and crowns, basic extractions, fluoride treatments, oral health education, and early detection of dental problems. At Gnathos Dental, we provide comprehensive general dental care for the whole family."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is general dentistry suitable for children?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Absolutely! General dentistry includes family dentistry services for patients of all ages. We provide gentle, child-friendly dental care including preventive treatments, fluoride applications, dental sealants, and oral health education to help children develop good dental habits from an early age."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What can I expect during a routine dental check-up?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A routine dental check-up includes a thorough examination of your teeth, gums, and oral tissues, professional cleaning to remove plaque and tartar, oral cancer screening, X-rays if needed, and discussion of any treatment recommendations. We also provide personalized oral hygiene instructions."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you accept dental insurance for general dentistry services?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we accept most major dental insurance plans for general dentistry services. Our team will help verify your benefits and work with your insurance company to maximize your coverage. We also offer flexible payment options for treatments not covered by insurance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can general dentistry help prevent serious dental problems?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! Preventive general dentistry is the best way to avoid serious dental problems. Regular check-ups, cleanings, and early treatment of minor issues can prevent costly and complex procedures later. Early detection and treatment save both your oral health and your budget."
+                }
+            }
+        ]
+    }
+    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -36,10 +115,8 @@
                         <span
                             class="inline-block bg-gnathos/10 text-gnathos px-4 py-1.5 rounded-full text-sm font-semibold">🦷
                             Best General Dentistry in Hyderabad</span>
-                        <h1 class="text-4xl lg:text-5xl font-bold text-gray-800 leading-tight">Comprehensive General
-                            Dental Care For Your<span
-                                class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent"> Entire
-                                Family</span></h1>
+                        <h1 class="text-4xl lg:text-5xl font-bold text-gray-800 leading-tight">Best General Dentistry in Hyderabad –<span
+                                class="bg-gradient-to-r from-gnathos to-teal-500 bg-clip-text text-transparent"> Complete Family Dental Care</span></h1>
                         <p class="text-lg text-gray-600 leading-relaxed">Complete general dentistry services including
                             preventive care, restorative treatments, and family dentistry to maintain optimal oral
                             health for patients of all ages.</p>
@@ -324,6 +401,17 @@
         </div>
     </section>
 
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Your Complete Guide to <span class="text-gnathos">General Dentistry in Hyderabad</span></h2>
+            <div class="space-y-6 text-gray-700 text-base sm:text-lg leading-relaxed">
+                <p>Regular dental visits are the cornerstone of lasting oral health, yet many people only visit a dentist when they experience pain or discomfort. At Gnathos Dental, we believe in proactive, preventive care that catches problems early — saving you time, money, and unnecessary discomfort. Our <strong>general dentistry in Hyderabad</strong> services include comprehensive oral examinations, professional cleanings and scaling, cavity fillings, fluoride treatments, gum disease management, and personalized oral hygiene guidance for patients of all ages.</p>
+                <p>When you visit Gnathos Dental for a general checkup, you can expect a thorough examination using advanced diagnostic tools including digital X-rays and intraoral cameras. Our dentists take the time to explain their findings, discuss treatment options, and create a personalized care plan tailored to your needs. With a focus on <strong>general dentistry in Hyderabad</strong> that prioritizes patient education and comfort, our team ensures that every visit is a positive experience — whether it is your child's first dental checkup or your routine six-month cleaning. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your appointment</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Our General Dentistry Process -->
     <section class="py-16 bg-gradient-to-br from-emerald-50 to-teal-50">
@@ -565,7 +653,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
-                class="w-full h-full object-cover opacity-40"></div>
+                alt="General dentistry checkup at Gnathos Dental Hyderabad" class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">
             <h2 class="text-4xl md:text-5xl font-black text-white mb-6 leading-tight">Ready for Your General Dentistry

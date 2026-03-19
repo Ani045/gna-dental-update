@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Clear Aligners in Kukatpally, Kukatpally, Hyderabad | Gnathos Dental - Invisible Braces</title>
-    <meta name="descriGet the best clear aligners in Kukatpally, Kukatpally, Hyderabad at Gnathos Dental. Invisible braces for perfect teeth alignment. Expert orthodontists, latest technology. Book consultation today!Book consultation todaclear aligners Kukatpally, invisible braces, teeth alignment, orthodontist Kukatpally, clear aligner cost, invisible orthodontics, teeth straightening, clear aligners Kukatpally, clear aligners Kukatpally Hyderabadost, invisible orthodontics, teeth straightening">
+    <title>Best Clear Aligners in Kukatpally, Hyderabad | Gnathos Dental - Invisible Braces</title>
+    <meta name="description" content="Best Clear Aligners in Kukatpally, Hyderabad at Gnathos Dental. Expert specialists, advanced technology, painless procedures. Book: +91 9955 708 885">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -25,14 +25,14 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
-    <link rel="canonical" href="https://gnathosdentalcare.com/aligners-in-kukatpally">
+    <link rel="canonical" href="https://www.gnathosdental.in/aligners-in-kukatpally">
     <!-- Schema & Geo Tags -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - Clear Aligners in Kukatpally, Hyderabad",
-      "url": "https://gnathosdentalcare.com/aligners-in-kukatpally.php",
+      "url": "https://www.gnathosdental.in/aligners-in-kukatpally.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",
@@ -46,6 +46,20 @@
     </script>
     <meta name="geo.region" content="IN-TG" />
     <meta name="geo.placename" content="Kukatpally, Hyderabad" />
+
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Clear Aligners in Kukatpally, Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Expert clear aligners near Kukatpally, Hyderabad. Painless, advanced technology, experienced specialists at Gnathos Dental. Book today!" />
+    <meta property="og:url" content="https://www.gnathosdental.in/aligners-in-kukatpally" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalProcedure","name":"Clear Aligners in Kukatpally, Hyderabad","description":"Clear Aligners at Gnathos Dental, serving patients from Kukatpally, Hyderabad. Painless, precise, and premium care.","procedureType":"https://schema.org/TherapeuticProcedure","relevantSpecialty":"Dentistry","provider":{"@type":"Dentist","name":"Gnathos Dental","telephone":"+919955708885","address":{"@type":"PostalAddress","streetAddress":"Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City","addressLocality":"Hyderabad","addressRegion":"Telangana","postalCode":"500032","addressCountry":"IN"},"areaServed":{"@type":"Place","name":"Kukatpally, Hyderabad"}}}
+    </script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"Clear Aligners","item":"https://www.gnathosdental.in/aligners"},{"@type":"ListItem","position":3,"name":"Clear Aligners in Kukatpally","item":"https://www.gnathosdental.in/aligners-in-kukatpally"}]}
+    </script>
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -675,6 +689,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+                alt="Clear Aligners at Gnathos Dental serving Kukatpally, Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="absolute top-0 right-0 w-96 h-96 bg-gnathos/10 rounded-full blur-[120px] animate-pulse"></div>
@@ -699,6 +714,18 @@
     </section>
 
     
+
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">Clear Aligners Near Kukatpally &#8211; <span class="text-gnathos">Why Patients Choose Gnathos Dental</span></h2>
+                <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Patients from Kukatpally seeking expert clear aligners choose Gnathos Dental in Hitech City for our combination of advanced technology, experienced MDS specialists, and painless treatment protocols. Our hospital-based clinic inside Care Hospital offers custom-made invisible aligners, digital smile planning, and expert orthodontic supervision, ensuring the highest standards of care and safety. With 15+ years of experience, 10,000+ happy patients, and a 4.9/5 Google rating, we are the most trusted destination for clear aligners near Kukatpally, Hyderabad. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your consultation</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Location Links Section -->
     <section class="py-12 bg-gray-50 border-t border-gray-200">
         <div class="container mx-auto px-4 lg:px-8">

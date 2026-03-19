@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best General Dentistry in Nallakunta, Nallakunta, Hyderabad | Gnathos Dental</title>
-    <meta name="descriComprehensive general dentistry services in Nallakunta, Nallakunta, Hyderabad. Family dental care, preventive treatments, cleanings, fillings & more.anings, fillings & more.">
+    <title>Best General Dentistry in Nallakunta, Hyderabad | Gnathos Dental</title>
+    <meta name="description" content="Best General Dentistry in Nallakunta, Hyderabad at Gnathos Dental. Expert specialists, advanced technology, painless procedures. Book: +91 9955 708 885">
     <link rel="icon" href="assets/images/GNA Dental/Icons/fav.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>tailwind.config = { theme: { extend: { colors: { gnathos: '#00bbb0', dark: '#001817' } } } }</script>
@@ -17,14 +17,14 @@
             font-family: 'Inter', sans-serif;
         }
     </style>
-    <link rel="canonical" href="https://gnathosdentalcare.com/general-dentistry-in-nallakunta">
+    <link rel="canonical" href="https://www.gnathosdental.in/general-dentistry-in-nallakunta">
     <!-- Schema & Geo Tags -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "MedicalClinic",
       "name": "Gnathos Dental Clinic - General Dentistry in Nallakunta, Hyderabad",
-      "url": "https://gnathosdentalcare.com/general-dentistry-in-nallakunta.php",
+      "url": "https://www.gnathosdental.in/general-dentistry-in-nallakunta.php",
       "telephone": "+919955708885",
       "address": {
         "@type": "PostalAddress",
@@ -38,6 +38,20 @@
     </script>
     <meta name="geo.region" content="IN-TG" />
     <meta name="geo.placename" content="Nallakunta, Hyderabad" />
+
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="General Dentistry in Nallakunta, Hyderabad | Gnathos Dental" />
+    <meta property="og:description" content="Expert general dentistry near Nallakunta, Hyderabad. Painless, advanced technology, experienced specialists at Gnathos Dental. Book today!" />
+    <meta property="og:url" content="https://www.gnathosdental.in/general-dentistry-in-nallakunta" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.gnathosdental.in/assets/images/GNA Dental/Icons/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"MedicalProcedure","name":"General Dentistry in Nallakunta, Hyderabad","description":"General Dentistry at Gnathos Dental, serving patients from Nallakunta, Hyderabad. Painless, precise, and premium care.","procedureType":"https://schema.org/TherapeuticProcedure","relevantSpecialty":"Dentistry","provider":{"@type":"Dentist","name":"Gnathos Dental","telephone":"+919955708885","address":{"@type":"PostalAddress","streetAddress":"Care Hospital, Near Cyberabad Police Commissionerate, Jayabheri Pine Valley, Hitech City","addressLocality":"Hyderabad","addressRegion":"Telangana","postalCode":"500032","addressCountry":"IN"},"areaServed":{"@type":"Place","name":"Nallakunta, Hyderabad"}}}
+    </script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gnathosdental.in/"},{"@type":"ListItem","position":2,"name":"General Dentistry","item":"https://www.gnathosdental.in/general-dentistry"},{"@type":"ListItem","position":3,"name":"General Dentistry in Nallakunta","item":"https://www.gnathosdental.in/general-dentistry-in-nallakunta"}]}
+    </script>
 </head>
 
 <body class="bg-white overflow-x-hidden">
@@ -585,6 +599,7 @@
     <!-- Call to Action -->
     <section class="py-20 bg-dark relative overflow-hidden">
         <div class="absolute inset-0"><img src="assets/images/GNA Dental/homepage2/hm.png"
+                alt="General Dentistry at Gnathos Dental serving Nallakunta, Hyderabad"
                 class="w-full h-full object-cover opacity-40"></div>
         <div class="absolute inset-0 bg-gradient-to-br from-dark via-dark/90 to-dark/80"></div>
         <div class="container mx-auto px-4 lg:px-8 relative z-10 text-center">
@@ -604,6 +619,18 @@
     </section>
 
     
+
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center mb-8">General Dentistry Near Nallakunta &#8211; <span class="text-gnathos">Why Patients Choose Gnathos Dental</span></h2>
+                <div class="text-gray-700 text-base sm:text-lg leading-relaxed">
+                    <p>Patients from Nallakunta seeking expert general dentistry choose Gnathos Dental in Hitech City for our combination of advanced technology, experienced MDS specialists, and painless treatment protocols. Our hospital-based clinic inside Care Hospital offers comprehensive family dental checkups, digital X-rays, professional cleanings, and preventive care programs, ensuring the highest standards of care and safety. With 15+ years of experience, 10,000+ happy patients, and a 4.9/5 Google rating, we are the most trusted destination for general dentistry near Nallakunta, Hyderabad. <a href="contact.php" class="text-gnathos font-semibold hover:underline">Book your consultation</a> or call <a href="tel:+919955708885" class="text-gnathos font-semibold hover:underline">+91 9955 708 885</a> today.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Location Links Section -->
     <section class="py-12 bg-gray-50 border-t border-gray-200">
         <div class="container mx-auto px-4 lg:px-8">
