@@ -5,6 +5,22 @@ function isActive($page_name, $current_page)
     return ($current_page == $page_name) ? 'text-gnathos font-medium' : 'text-gray-600 hover:text-gnathos';
 }
 ?>
+<!-- Usermaven Analytics -->
+<script type="text/javascript">
+    (function () {
+        window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
+        var t = document.createElement('script'),
+            s = document.getElementsByTagName('script')[0];
+        t.defer = true;
+        t.id = 'um-tracker';
+        t.setAttribute('data-tracking-host', "https://events.usermaven.com")
+        t.setAttribute('data-key', 'UMKIXMfCrH');
+        t.setAttribute('data-autocapture', 'true');
+        t.setAttribute('data-form-tracking', 'all');
+        t.src = 'https://t.usermaven.com/lib.js';
+        s.parentNode.insertBefore(t, s);
+    })();
+</script>
 <!-- Header -->
 <header class="fixed top-0 w-full bg-white/95 backdrop-blur-sm border-b z-50">
     <div class="container mx-auto flex justify-between items-center py-4 px-4 lg:px-8">
